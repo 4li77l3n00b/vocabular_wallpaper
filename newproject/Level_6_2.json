@@ -1,0 +1,4540 @@
+{
+    "dataroot": {
+      "-xmlns:od": "urn:schemas-microsoft-com:officedata",
+      "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "-xsi:noNamespaceSchemaLocation": "Level_6_2.xsd",
+      "-generated": "2022-12-13T16:41:23",
+      "Level_6_2": [
+        {
+          "spelling": "abnormal",
+          "phonetic": "[æb′nɔ:mә]",
+          "definition_1": "a.不正常的；变态的"
+        },
+        {
+          "spelling": "abolish",
+          "phonetic": "[ә′bɔliʃ]",
+          "definition_1": "vt.废除，取消"
+        },
+        {
+          "spelling": "abundance",
+          "phonetic": "[ә′bΛndәns]",
+          "definition_1": "n.丰富，充裕"
+        },
+        {
+          "spelling": "accessory",
+          "phonetic": "[æk′sesәri]",
+          "definition_1": "n.同谋",
+          "definition_2": "a.附属的"
+        },
+        {
+          "spelling": "accommodate",
+          "phonetic": "[ә′kɔmәdeit]",
+          "definition_1": "vt.容纳；供应，供给"
+        },
+        {
+          "spelling": "accord",
+          "phonetic": "[ә′kɔ:d]",
+          "definition_1": "vt.一致(~with)；给予"
+        },
+        {
+          "spelling": "acknowledge",
+          "phonetic": "[әk′nɔlidʒ]",
+          "definition_1": "vt.承认；告知收到"
+        },
+        {
+          "spelling": "acquaint",
+          "phonetic": "[ә′kweint]",
+          "definition_1": "vt.使认识，使了解"
+        },
+        {
+          "spelling": "acquisition",
+          "phonetic": "[`ækwi′ziʃәn]",
+          "definition_1": "n.获得,添加的物品"
+        },
+        {
+          "spelling": "activate",
+          "phonetic": "[`æktiveit]",
+          "definition_1": "vt.刺激,使活动"
+        },
+        {
+          "spelling": "acute",
+          "phonetic": "[ә′kju:t]",
+          "definition_1": "a.敏锐的"
+        },
+        {
+          "spelling": "administer",
+          "phonetic": "[әd′ministә]",
+          "definition_1": "vt.执行,管理,治理,"
+        },
+        {
+          "spelling": "adverse",
+          "phonetic": "[`ædvә:s]",
+          "definition_1": "a.不利的,敌对的,相反的,逆的"
+        },
+        {
+          "spelling": "advertise",
+          "phonetic": "[`ædvәtaiz]",
+          "definition_1": "vt.通知",
+          "definition_2": "vi.登广告"
+        },
+        {
+          "spelling": "advocate",
+          "phonetic": "[`ædvәkit]",
+          "definition_1": "n.辩护者",
+          "definition_2": "vt.拥护"
+        },
+        {
+          "spelling": "affiliate",
+          "phonetic": "[ә′filieit]",
+          "definition_1": "vt.附属,接纳",
+          "definition_2": "vi.有关"
+        },
+        {
+          "spelling": "affirm",
+          "phonetic": "[ә′fә:m]",
+          "definition_1": "vt.断言，批准；证实"
+        },
+        {
+          "spelling": "aggravate",
+          "phonetic": "[`ægrәveit]",
+          "definition_1": "vt.使恶化,使更加重"
+        },
+        {
+          "spelling": "agreeable",
+          "phonetic": "[ә′griәbl]",
+          "definition_1": "a.惬意的；同意的"
+        },
+        {
+          "spelling": "alert",
+          "phonetic": "[ә′lә:t]",
+          "definition_1": "a.警惕的；活跃的"
+        },
+        {
+          "spelling": "alliance",
+          "phonetic": "[ә′laiәns]",
+          "definition_1": "n.联盟,联合"
+        },
+        {
+          "spelling": "allocate",
+          "phonetic": "[`ælәkeit]",
+          "definition_1": "vt.分派,分配"
+        },
+        {
+          "spelling": "allowance",
+          "phonetic": "[ә′lauәns]",
+          "definition_1": "n津贴，补助费"
+        },
+        {
+          "spelling": "alongside",
+          "phonetic": "[ә′lɔŋ′said]",
+          "definition_1": "prep.在…旁边"
+        },
+        {
+          "spelling": "alternate",
+          "phonetic": "[ɔ:l′tә:nit]",
+          "definition_1": "vt.使交替",
+          "definition_2": "a.交替的"
+        },
+        {
+          "spelling": "ambiguous",
+          "phonetic": "[æm′bigjuәs]",
+          "definition_1": "a.模棱两可的；分歧的"
+        },
+        {
+          "spelling": "ambitious",
+          "phonetic": "[æm′biʃәs]",
+          "definition_1": "a.有雄心的；热望的"
+        },
+        {
+          "spelling": "ample",
+          "phonetic": "[`æmpl]",
+          "definition_1": "a.足够的；宽敞的"
+        },
+        {
+          "spelling": "amplify",
+          "phonetic": "[`æmplifai]",
+          "definition_1": "vt.放大，增强；扩大"
+        },
+        {
+          "spelling": "analogy",
+          "phonetic": "[ә′nælәdʒi]",
+          "definition_1": "n.相似，类似；比拟"
+        },
+        {
+          "spelling": "analytic",
+          "phonetic": "[ænә′litik]",
+          "definition_1": "a.分析的,解析的"
+        },
+        {
+          "spelling": "analytical",
+          "phonetic": "[ænә′litikl]",
+          "definition_1": "a.分析的,解析的"
+        },
+        {
+          "spelling": "angel",
+          "phonetic": "[`eindʒәl]",
+          "definition_1": "n.天使，神差，安琪儿"
+        },
+        {
+          "spelling": "anniversary",
+          "phonetic": "[,æni′vә:sәri]",
+          "definition_1": "n.周年纪念日"
+        },
+        {
+          "spelling": "anonymous",
+          "phonetic": "[ә′nɔnimәs]",
+          "definition_1": "a.匿名的"
+        },
+        {
+          "spelling": "antarctic",
+          "phonetic": "[ænt′a:ktik]",
+          "definition_1": "a.南极的",
+          "definition_2": "n.南极区"
+        },
+        {
+          "spelling": "antique",
+          "phonetic": "[æn′ti:k]",
+          "definition_1": "a.古代的",
+          "definition_2": "n.古物"
+        },
+        {
+          "spelling": "appreciable",
+          "phonetic": "[ә′pri:ʃәbl]",
+          "definition_1": "a.可估价的；可察觉的"
+        },
+        {
+          "spelling": "apprehension",
+          "phonetic": "[æpri′henʃәn]",
+          "definition_1": "n.理解,忧惧,逮捕"
+        },
+        {
+          "spelling": "architect",
+          "phonetic": "[`a:kitekt]",
+          "definition_1": "n.建筑师；创造者"
+        },
+        {
+          "spelling": "arctic",
+          "phonetic": "[`a:ktik]",
+          "definition_1": "a.北极的",
+          "definition_2": "n.北极"
+        },
+        {
+          "spelling": "array",
+          "phonetic": "[ә′rei]",
+          "definition_1": "vt.装扮",
+          "definition_2": "n.队列；排列"
+        },
+        {
+          "spelling": "articulate",
+          "phonetic": "[a:′tikjulit]",
+          "definition_1": "a.发音清晰的，听得懂的"
+        },
+        {
+          "spelling": "assimilate",
+          "phonetic": "[ә′simileit]",
+          "definition_1": "vt.使同化,吸收,比较"
+        },
+        {
+          "spelling": "assumption",
+          "phonetic": "[ә′sΛmpʃәn]",
+          "definition_1": "n.采取；假定；傲慢"
+        },
+        {
+          "spelling": "assurance",
+          "phonetic": "[ә′ʃuәrәns]",
+          "definition_1": "n.保证；财产转让书"
+        },
+        {
+          "spelling": "astronomy",
+          "phonetic": "[әs′trɔnәmi]",
+          "definition_1": "n.天文学"
+        },
+        {
+          "spelling": "attendance",
+          "phonetic": "[ә′tendәns]",
+          "definition_1": "n.到场；出席人数"
+        },
+        {
+          "spelling": "attendant",
+          "phonetic": "[ә′tendәnt]",
+          "definition_1": "n.侍者；护理人员"
+        },
+        {
+          "spelling": "augment",
+          "phonetic": "[ɔ:g′ment,`ɔ:gmәnt]",
+          "definition_1": "vt.vi.n.增加,增大"
+        },
+        {
+          "spelling": "authoritative",
+          "phonetic": "[ɔ:′θɔritәtiv]",
+          "definition_1": "a.权威的,有权威的,命令式的"
+        },
+        {
+          "spelling": "authorize",
+          "phonetic": "[`ɔ:θәraiz]",
+          "definition_1": "vt.授权与,批准,委托代替"
+        },
+        {
+          "spelling": "automation",
+          "phonetic": "[ɔ:tә′meiʃәn]",
+          "definition_1": "n.自动，自动化"
+        },
+        {
+          "spelling": "avail",
+          "phonetic": "[ә′veil]",
+          "definition_1": "vt.有益于",
+          "definition_2": "n.效用"
+        },
+        {
+          "spelling": "bachelor",
+          "phonetic": "[`bætʃәlә]",
+          "definition_1": "n.未婚男子；学士"
+        },
+        {
+          "spelling": "baffle",
+          "phonetic": "[`bæfl]",
+          "definition_1": "vt.使挫折",
+          "definition_2": "n.迷惑"
+        },
+        {
+          "spelling": "bald",
+          "phonetic": "[bɔ:ld]",
+          "definition_1": "a.秃头的；无毛的"
+        },
+        {
+          "spelling": "ballet",
+          "phonetic": "[`bælei,]",
+          "definition_1": "n.芭蕾舞；舞剧"
+        },
+        {
+          "spelling": "ban",
+          "phonetic": "[bæn]",
+          "definition_1": "n.禁令",
+          "definition_2": "vt.禁止,取缔"
+        },
+        {
+          "spelling": "bankrupt",
+          "phonetic": "[`bæŋkrәpt]",
+          "definition_1": "a.破产的",
+          "definition_2": "vt.使破产"
+        },
+        {
+          "spelling": "barely",
+          "phonetic": "[`bɛәli]",
+          "definition_1": "ad.仅仅，勉强"
+        },
+        {
+          "spelling": "barren",
+          "phonetic": "[`bærәn]",
+          "definition_1": "a.贫瘠的；不妊的"
+        },
+        {
+          "spelling": "basement",
+          "phonetic": "[`beismәnt]",
+          "definition_1": "n.地下室；地窖；底层"
+        },
+        {
+          "spelling": "bearing",
+          "phonetic": "[`bɛәriŋ]",
+          "definition_1": "n.支承；忍受；方位"
+        },
+        {
+          "spelling": "beforehand",
+          "phonetic": "[bi′fɔ:hænd]",
+          "definition_1": "ad.预先；提前地"
+        },
+        {
+          "spelling": "betray",
+          "phonetic": "[bi′trei]",
+          "definition_1": "vt.背叛；辜负；泄漏"
+        },
+        {
+          "spelling": "bewilder",
+          "phonetic": "[bi′wildә]",
+          "definition_1": "vt.迷惑，把…弄糊涂"
+        },
+        {
+          "spelling": "biography",
+          "phonetic": "[bai′ɔgrәfi]",
+          "definition_1": "n.传记"
+        },
+        {
+          "spelling": "blaze",
+          "phonetic": "[bleiz]",
+          "definition_1": "n.火；闪光",
+          "definition_2": "vi.燃烧"
+        },
+        {
+          "spelling": "bleak",
+          "phonetic": "[bli:k]",
+          "definition_1": "a.萧瑟的,苍白的,荒凉的"
+        },
+        {
+          "spelling": "bless",
+          "phonetic": "[bles]",
+          "definition_1": "vt.为…祝福"
+        },
+        {
+          "spelling": "blossom",
+          "phonetic": "[`blɔsәm]",
+          "definition_1": "n.花，开花",
+          "definition_2": "vi.开花"
+        },
+        {
+          "spelling": "boom",
+          "phonetic": "[bu:m]",
+          "definition_1": "vi.n.急速发展,繁荣,隆隆响"
+        },
+        {
+          "spelling": "boost",
+          "phonetic": "[bu:st]",
+          "definition_1": "vt.n.推进,支援,吹捧"
+        },
+        {
+          "spelling": "boycott",
+          "phonetic": "[`bɔikәt]",
+          "definition_1": "vt.&n.联合抵制"
+        },
+        {
+          "spelling": "breakdown",
+          "phonetic": "[`breikdaun]",
+          "definition_1": "n.崩溃，倒塌；失败"
+        },
+        {
+          "spelling": "brutal",
+          "phonetic": "[`bru:tl]",
+          "definition_1": "a.残忍的,野蛮的,不讲理的"
+        },
+        {
+          "spelling": "bud",
+          "phonetic": "[bΛd]",
+          "definition_1": "n.芽，萌芽；蓓蕾"
+        },
+        {
+          "spelling": "budget",
+          "phonetic": "[`bΛdʒit]",
+          "definition_1": "n.预算，预算案"
+        },
+        {
+          "spelling": "buffer",
+          "phonetic": "[`bΛfә]",
+          "definition_1": "n.缓冲,缓冲区",
+          "definition_2": "vt.缓冲"
+        },
+        {
+          "spelling": "bug",
+          "phonetic": "[bΛg]",
+          "definition_1": "n.虫子；臭虫"
+        },
+        {
+          "spelling": "burial",
+          "phonetic": "[`beriәl]",
+          "definition_1": "n.安葬，埋葬，埋藏"
+        },
+        {
+          "spelling": "bypass",
+          "phonetic": "[`bai-pa:s]",
+          "definition_1": "n.旁通管",
+          "definition_2": "vt.绕过"
+        },
+        {
+          "spelling": "captive",
+          "phonetic": "[`kæptiv]",
+          "definition_1": "n.俘虏，被监禁的人"
+        },
+        {
+          "spelling": "cartoon",
+          "phonetic": "[ka:′tu:n]",
+          "definition_1": "n.漫画，动画片"
+        },
+        {
+          "spelling": "carve",
+          "phonetic": "[ka:v]",
+          "definition_1": "vt.刻，雕刻；切开"
+        },
+        {
+          "spelling": "casualty",
+          "phonetic": "[`kæʒjuәlti]",
+          "definition_1": "n.伤亡,受害者"
+        },
+        {
+          "spelling": "category",
+          "phonetic": "[`kætigәri]",
+          "definition_1": "n.种类，类目；范畴"
+        },
+        {
+          "spelling": "caution",
+          "phonetic": "[`kɔ:ʃәn]",
+          "definition_1": "n.小心；告诫",
+          "definition_2": "vt.警告"
+        },
+        {
+          "spelling": "cautious",
+          "phonetic": "[`kɔ:ʃәs]",
+          "definition_1": "a.小心的，谨慎的"
+        },
+        {
+          "spelling": "cellar",
+          "phonetic": "[`selә]",
+          "definition_1": "n.地窑，地下室"
+        },
+        {
+          "spelling": "cereal",
+          "phonetic": "[`siәriәl]",
+          "definition_1": "n.谷类，五谷，禾谷"
+        },
+        {
+          "spelling": "certainty",
+          "phonetic": "[`sә:tnti]",
+          "definition_1": "n.确实性，确信，确实"
+        },
+        {
+          "spelling": "certify",
+          "phonetic": "[`sә:tifai]",
+          "definition_1": "vt.vi.证明,保证"
+        },
+        {
+          "spelling": "chaos",
+          "phonetic": "[`keiɔs]",
+          "definition_1": "n.大混乱,混沌"
+        },
+        {
+          "spelling": "characterize",
+          "phonetic": "[`kæriktәraiz]",
+          "definition_1": "vt.表示…的特性"
+        },
+        {
+          "spelling": "charity",
+          "phonetic": "[`tʃæriti]",
+          "definition_1": "n.施舍；慈善事业"
+        },
+        {
+          "spelling": "charm",
+          "phonetic": "[tʃa:m]",
+          "definition_1": "n.魅力；妩媚",
+          "definition_2": "vi.迷人"
+        },
+        {
+          "spelling": "chat",
+          "phonetic": "[tʃæt]",
+          "definition_1": "n.闲谈",
+          "definition_2": "vi.闲谈,聊天"
+        },
+        {
+          "spelling": "cherish",
+          "phonetic": "[`tʃeriʃ]",
+          "definition_1": "vt.珍爱；怀有(感情)"
+        },
+        {
+          "spelling": "chip",
+          "phonetic": "[tʃip]",
+          "definition_1": "n.薄片，碎片"
+        },
+        {
+          "spelling": "circulation",
+          "phonetic": "[sә:kju′leiʃәn]",
+          "definition_1": "n.循环；(货币等)流通"
+        },
+        {
+          "spelling": "cite",
+          "phonetic": "[sait]",
+          "definition_1": "vt.引用，引证；举例"
+        },
+        {
+          "spelling": "civilian",
+          "phonetic": "[si′viljәn]",
+          "definition_1": "n.平民",
+          "definition_2": "a.平民的"
+        },
+        {
+          "spelling": "clarity",
+          "phonetic": "[`klæriti]",
+          "definition_1": "n.清楚,透明"
+        },
+        {
+          "spelling": "clash",
+          "phonetic": "[klæʃ]",
+          "definition_1": "n.碰撞声；抵触，冲突"
+        },
+        {
+          "spelling": "classic",
+          "phonetic": "[`klæsik]",
+          "definition_1": "n.名著",
+          "definition_2": "a.不朽的"
+        },
+        {
+          "spelling": "clearance",
+          "phonetic": "[`kliәrәns]",
+          "definition_1": "n.清除,解除,间隙"
+        },
+        {
+          "spelling": "client",
+          "phonetic": "[`klaiәnt]",
+          "definition_1": "n.顾客；诉讼委托人"
+        },
+        {
+          "spelling": "cling",
+          "phonetic": "[kliŋ]",
+          "definition_1": "vi.粘住；依附；坚持"
+        },
+        {
+          "spelling": "clinic",
+          "phonetic": "[klinik]",
+          "definition_1": "n.诊所，医务室；会诊"
+        },
+        {
+          "spelling": "clip",
+          "phonetic": "[klip]",
+          "definition_1": "vt.剪；剪辑报刊"
+        },
+        {
+          "spelling": "coherent",
+          "phonetic": "[kәu′hiәrәnt]",
+          "definition_1": "a.粘着的；紧凑的"
+        },
+        {
+          "spelling": "coincide",
+          "phonetic": "[kәuin′said]",
+          "definition_1": "vi.相符合；相巧合"
+        },
+        {
+          "spelling": "coincidence",
+          "phonetic": "[kәuin′sidәns]",
+          "definition_1": "n.巧合,同时发生"
+        },
+        {
+          "spelling": "collaboration",
+          "phonetic": "[kәlæbә′reiʃәn]",
+          "definition_1": "n.合作,通敌"
+        },
+        {
+          "spelling": "collide",
+          "phonetic": "[kә′laid]",
+          "definition_1": "vi.碰撞；冲突，抵触"
+        },
+        {
+          "spelling": "colonial",
+          "phonetic": "[kә′lәuniәl]",
+          "definition_1": "a.殖民地的，殖民的"
+        },
+        {
+          "spelling": "combat",
+          "phonetic": "[`kɔmbæt]",
+          "definition_1": "vt.跟…战斗",
+          "definition_2": "vi.格斗"
+        },
+        {
+          "spelling": "comedy",
+          "phonetic": "[`kɔmidi]",
+          "definition_1": "n.喜剧；喜剧场面"
+        },
+        {
+          "spelling": "commemorate",
+          "phonetic": "[kә′memәreit]",
+          "definition_1": "vt.纪念"
+        },
+        {
+          "spelling": "commence",
+          "phonetic": "[kә′mens]",
+          "definition_1": "vt.开始",
+          "definition_2": "vi.获得学位"
+        },
+        {
+          "spelling": "commend",
+          "phonetic": "[kә′mend]",
+          "definition_1": "vt.称赞，表扬；推荐"
+        },
+        {
+          "spelling": "commentary",
+          "phonetic": "[`kɔmәntәri]",
+          "definition_1": "n.注释,评论,批评"
+        },
+        {
+          "spelling": "commitment",
+          "phonetic": "[kә′mitmәnt]",
+          "definition_1": "n.委托,承担义务,赞助"
+        },
+        {
+          "spelling": "commodity",
+          "phonetic": "[kә′mɔditi]",
+          "definition_1": "n.日用品，商品，物品"
+        },
+        {
+          "spelling": "commonplace",
+          "phonetic": "[`kɔmәnpleis]",
+          "definition_1": "a.平凡的",
+          "definition_2": "n.平常话"
+        },
+        {
+          "spelling": "commute",
+          "phonetic": "[kә′mju:t]",
+          "definition_1": "vt.交换,兑换,经常来往"
+        },
+        {
+          "spelling": "compact",
+          "phonetic": "[`kɔmpækt,kәm′pækt]",
+          "definition_1": "a.紧密的",
+          "definition_2": "vt.使紧凑"
+        },
+        {
+          "spelling": "comparable",
+          "phonetic": "[`kɔmpәrәbl]",
+          "definition_1": "a.可比较的；类似的"
+        },
+        {
+          "spelling": "compatible",
+          "phonetic": "[kәm′pætәbl]",
+          "definition_1": "a.一致的；兼容制的"
+        },
+        {
+          "spelling": "compensate",
+          "phonetic": "[`kɔmpenseit]",
+          "definition_1": "vt.&vi.补偿，赔偿"
+        },
+        {
+          "spelling": "competence",
+          "phonetic": "[`kɔmpitәns]",
+          "definition_1": "n.胜任,资格,能力"
+        },
+        {
+          "spelling": "competitive",
+          "phonetic": "[kәm′petitiv]",
+          "definition_1": "a.竞争的，比赛的"
+        },
+        {
+          "spelling": "compile",
+          "phonetic": "[kәm′pail]",
+          "definition_1": "vt.编辑，编制，搜集"
+        },
+        {
+          "spelling": "complement",
+          "phonetic": "[`kәmplimәnt]",
+          "definition_1": "vt.补充",
+          "definition_2": "n.补足(物)"
+        },
+        {
+          "spelling": "complication",
+          "phonetic": "[kɔmpli′keiʃәn]",
+          "definition_1": "n.复杂，混乱；并发症"
+        },
+        {
+          "spelling": "compliment",
+          "phonetic": "[`kɔmplimәnt]",
+          "definition_1": "n.问候",
+          "definition_2": "vt.赞美，祝贺"
+        },
+        {
+          "spelling": "comply",
+          "phonetic": "[kәm′plai]",
+          "definition_1": "vi.应允，遵照，照做"
+        },
+        {
+          "spelling": "composite",
+          "phonetic": "[`kɔmpәzit]",
+          "definition_1": "a.合成的",
+          "definition_2": "n.合成物"
+        },
+        {
+          "spelling": "compulsory",
+          "phonetic": "[kәm′pΛlsәri]",
+          "definition_1": "a.强迫的，义务的"
+        },
+        {
+          "spelling": "conceive",
+          "phonetic": "[kәn′si:v]",
+          "definition_1": "vt.设想，以为；怀孕"
+        },
+        {
+          "spelling": "conception",
+          "phonetic": "[kәn′sepʃәn]",
+          "definition_1": "n.概念，观念，想法"
+        },
+        {
+          "spelling": "concession",
+          "phonetic": "[kәn′seʃәn]",
+          "definition_1": "n.让步，迁就"
+        },
+        {
+          "spelling": "confidential",
+          "phonetic": "[kɔnfi′denʃәl]",
+          "definition_1": "a.秘密的；亲信的"
+        },
+        {
+          "spelling": "configuration",
+          "phonetic": "[kәnfigju′reiʃәn]",
+          "definition_1": "n.结构,配置,形态"
+        },
+        {
+          "spelling": "conform",
+          "phonetic": "[kәn′fɔ:m]",
+          "definition_1": "vt.使遵守",
+          "definition_2": "vi.一致"
+        },
+        {
+          "spelling": "confront",
+          "phonetic": "[kәn′frΛnt]",
+          "definition_1": "vt.使面对；使对证"
+        },
+        {
+          "spelling": "confusion",
+          "phonetic": "[kәn′fju:ʒәn]",
+          "definition_1": "n.混乱；骚乱；混淆"
+        },
+        {
+          "spelling": "conscientious",
+          "phonetic": "[kɔnʃi′enʃәs]",
+          "definition_1": "a.本着良心的,负责的"
+        },
+        {
+          "spelling": "consecutive",
+          "phonetic": "[kәn′sekjutiv]",
+          "definition_1": "a.连续,联贯的,始的"
+        },
+        {
+          "spelling": "consensus",
+          "phonetic": "[kәn′sensәs]",
+          "definition_1": "n.一致"
+        },
+        {
+          "spelling": "consequent",
+          "phonetic": "[`kɔnsikwәnt]",
+          "definition_1": "a.作为结果的；必然的"
+        },
+        {
+          "spelling": "conserve",
+          "phonetic": "[kәn′sә:v]",
+          "definition_1": "vt.保存,保全",
+          "definition_2": "n.蜜饯,果酱"
+        },
+        {
+          "spelling": "consolidate",
+          "phonetic": "[kәn′sɔlideit]",
+          "definition_1": "vt.巩固",
+          "definition_2": "vi.合并"
+        },
+        {
+          "spelling": "conspicuous",
+          "phonetic": "[kәn′spikjuәs]",
+          "definition_1": "a.显著的,显眼的,出众的"
+        },
+        {
+          "spelling": "constituent",
+          "phonetic": "[kәn′stitjuәnt]",
+          "definition_1": "a.形成的",
+          "definition_2": "n.选民"
+        },
+        {
+          "spelling": "constrain",
+          "phonetic": "[kәn′strein]",
+          "definition_1": "vt.强迫,勉强,驱使"
+        },
+        {
+          "spelling": "consultant",
+          "phonetic": "[kәn′sΛltәnt]",
+          "definition_1": "n.顾问,商议者"
+        },
+        {
+          "spelling": "consumer",
+          "phonetic": "[kәn′sju:mә]",
+          "definition_1": "n.消费者，用户"
+        },
+        {
+          "spelling": "contemplate",
+          "phonetic": "[`kɔntempleit]",
+          "definition_1": "vt.注视,沉思,打算"
+        },
+        {
+          "spelling": "contempt",
+          "phonetic": "[kәn′tempt]",
+          "definition_1": "n.轻蔑；藐视"
+        },
+        {
+          "spelling": "contend",
+          "phonetic": "[kәn′tend]",
+          "definition_1": "vi.竞争",
+          "definition_2": "vt.坚决主张"
+        },
+        {
+          "spelling": "context",
+          "phonetic": "[`kɔntekst]",
+          "definition_1": "n.上下文；来龙去脉"
+        },
+        {
+          "spelling": "contribution",
+          "phonetic": "[kɔntri′bju:ʃәn]",
+          "definition_1": "n.捐助,捐助之物,贡献"
+        },
+        {
+          "spelling": "contrive",
+          "phonetic": "[kәn′traiv]",
+          "definition_1": "vt.vi.发明,设计,图谋"
+        },
+        {
+          "spelling": "controversial",
+          "phonetic": "[kɔntrә′vә:ʃәl]",
+          "definition_1": "a.争论的,有争议的，被议论的"
+        },
+        {
+          "spelling": "controversy",
+          "phonetic": "[`kɔntrәvә:si]",
+          "definition_1": "n.争论，辩论，争吵"
+        },
+        {
+          "spelling": "converge",
+          "phonetic": "[kәn′vә:dʒ]",
+          "definition_1": "vi.聚合,集中于一点"
+        },
+        {
+          "spelling": "conviction",
+          "phonetic": "[kәn′vikʃәn]",
+          "definition_1": "n.确信，信服，深信"
+        },
+        {
+          "spelling": "cooperative",
+          "phonetic": "[kәu′ɔpәrәtiv]",
+          "definition_1": "a.合作的",
+          "definition_2": "n.合作社"
+        },
+        {
+          "spelling": "cordial",
+          "phonetic": "[`kɔ:djәl]",
+          "definition_1": "a.真诚的，诚恳的"
+        },
+        {
+          "spelling": "corporate",
+          "phonetic": "[`kɔ:pәrit]",
+          "definition_1": "n.组织"
+        },
+        {
+          "spelling": "correlate",
+          "phonetic": "[`kɔrileit]",
+          "definition_1": "n.互相关联的事物"
+        },
+        {
+          "spelling": "correspondence",
+          "phonetic": "[kɔris′pɔndәns]",
+          "definition_1": "n.通信；符合；对应"
+        },
+        {
+          "spelling": "correspondent",
+          "phonetic": "[kɔris′pɔndәnt]",
+          "definition_1": "n.通信者；通讯员"
+        },
+        {
+          "spelling": "cosmic",
+          "phonetic": "[`kɔzmik]",
+          "definition_1": "a.宇宙的；广大无边的"
+        },
+        {
+          "spelling": "costume",
+          "phonetic": "[`kɔstju:m]",
+          "definition_1": "n.装束,服装"
+        },
+        {
+          "spelling": "couch",
+          "phonetic": "[kautʃ]",
+          "definition_1": "n.睡椅，长沙发椅"
+        },
+        {
+          "spelling": "counsel",
+          "phonetic": "[`kaunsәl]",
+          "definition_1": "n.商议；忠告；律师"
+        },
+        {
+          "spelling": "courtesy",
+          "phonetic": "[`kә:tisi]",
+          "definition_1": "n.礼貌，谦恭，请安"
+        },
+        {
+          "spelling": "cradle",
+          "phonetic": "[`kreidl]",
+          "definition_1": "n.摇篮，发源地"
+        },
+        {
+          "spelling": "creation",
+          "phonetic": "[kri′eiʃәn]",
+          "definition_1": "n.创造,创作物,发明"
+        },
+        {
+          "spelling": "criterion",
+          "phonetic": "[krai′tiәriәn]",
+          "definition_1": "n.标准，准则，尺度"
+        },
+        {
+          "spelling": "crucial",
+          "phonetic": "[`kru:ʃiәl]",
+          "definition_1": "a.决定性的,重要的,严厉的"
+        },
+        {
+          "spelling": "cumulative",
+          "phonetic": "[`kjumjuleitiv]",
+          "definition_1": "a.累积的"
+        },
+        {
+          "spelling": "currency",
+          "phonetic": "[`kΛrәnsi]",
+          "definition_1": "n.通货；通用；市价"
+        },
+        {
+          "spelling": "curriculum",
+          "phonetic": "[kә′rikjulәm]",
+          "definition_1": "n.课程"
+        },
+        {
+          "spelling": "customary",
+          "phonetic": "[`kΛstәmәri]",
+          "definition_1": "a.通常的；照惯例的"
+        },
+        {
+          "spelling": "damn",
+          "phonetic": "[dæm]",
+          "definition_1": "vt.诅咒",
+          "definition_2": "n.诅咒；丝毫"
+        },
+        {
+          "spelling": "dazzle",
+          "phonetic": "[`dæzl]",
+          "definition_1": "vt.&vi.炫耀；迷惑"
+        },
+        {
+          "spelling": "deadly",
+          "phonetic": "[`dedli]",
+          "definition_1": "a.致命的，死一般的"
+        },
+        {
+          "spelling": "decent",
+          "phonetic": "[`di:snt]",
+          "definition_1": "a.正派的；体面的"
+        },
+        {
+          "spelling": "decisive",
+          "phonetic": "[di′saisiv]",
+          "definition_1": "a.决定性的；果断的"
+        },
+        {
+          "spelling": "decline",
+          "phonetic": "[di′klain]",
+          "definition_1": "vt.下倾；偏斜；衰退"
+        },
+        {
+          "spelling": "dedicate",
+          "phonetic": "[`dedikeit]",
+          "definition_1": "vt.奉献；献身"
+        },
+        {
+          "spelling": "deem",
+          "phonetic": "[di:m]",
+          "definition_1": "vt.认为，相信",
+          "definition_2": "vi.想"
+        },
+        {
+          "spelling": "deficiency",
+          "phonetic": "[di′fiʃәnsi]",
+          "definition_1": "n.缺乏；不足之数"
+        },
+        {
+          "spelling": "defy",
+          "phonetic": "[di′fai]",
+          "definition_1": "vt.向…挑战；蔑视"
+        },
+        {
+          "spelling": "degenerate",
+          "phonetic": "[di′dʒenәreit]",
+          "definition_1": "a.堕落的",
+          "definition_2": "vi.vt.(使)变质,(使)退化"
+        },
+        {
+          "spelling": "deliberate",
+          "phonetic": "[di′libәrit]",
+          "definition_1": "a.深思熟虑的；审慎的"
+        },
+        {
+          "spelling": "denial",
+          "phonetic": "[di′naiәl]",
+          "definition_1": "n.否定；拒绝相信"
+        },
+        {
+          "spelling": "denote",
+          "phonetic": "[di′nәut]",
+          "definition_1": "vt.指示，意味着"
+        },
+        {
+          "spelling": "denounce",
+          "phonetic": "[di′nauns]",
+          "definition_1": "vt.谴责，声讨；告发"
+        },
+        {
+          "spelling": "dentist",
+          "phonetic": "[`dentist]",
+          "definition_1": "n.牙科医生"
+        },
+        {
+          "spelling": "depression",
+          "phonetic": "[di′preʃәn]",
+          "definition_1": "n.消沉；不景气萧条期"
+        },
+        {
+          "spelling": "deprive",
+          "phonetic": "[di′praiv]",
+          "definition_1": "vt.夺去；使(人)失去"
+        },
+        {
+          "spelling": "descendant",
+          "phonetic": "[di′sendәnt]",
+          "definition_1": "n.子孙，后裔；弟子"
+        },
+        {
+          "spelling": "descent",
+          "phonetic": "[di′sent]",
+          "definition_1": "n.下降；出身；斜坡"
+        },
+        {
+          "spelling": "﻿designate",
+          "phonetic": "[`dezigneit]",
+          "definition_1": "vt.指出，指示；指定"
+        },
+        {
+          "spelling": "despise",
+          "phonetic": "[dis′paiz]",
+          "definition_1": "vt.鄙视，蔑视"
+        },
+        {
+          "spelling": "destined",
+          "phonetic": "[`destind]",
+          "definition_1": "a.(由神、命运)预定的,注定的"
+        },
+        {
+          "spelling": "destiny",
+          "phonetic": "[`destini]",
+          "definition_1": "n.命运,定数"
+        },
+        {
+          "spelling": "destructive",
+          "phonetic": "[dis′trΛktiv]",
+          "definition_1": "a.破坏(性)的，危害的"
+        },
+        {
+          "spelling": "detective",
+          "phonetic": "[di′tektiv]",
+          "definition_1": "n.侦探，密探"
+        },
+        {
+          "spelling": "deteriorate",
+          "phonetic": "[di′tiәriәreit]",
+          "definition_1": "vt.vi.(使)恶化"
+        },
+        {
+          "spelling": "diagnose",
+          "phonetic": "[`daiәgnәuz]",
+          "definition_1": "vt.诊断(疾病)"
+        },
+        {
+          "spelling": "diet",
+          "phonetic": "[`daiәt]",
+          "definition_1": "n.饮食，食物"
+        },
+        {
+          "spelling": "differentiate",
+          "phonetic": "[difә′renʃieit]",
+          "definition_1": "vt.vi.区别,区分"
+        },
+        {
+          "spelling": "diffuse",
+          "phonetic": "[di′fju:z]",
+          "definition_1": "vt.vi.散播,传播a.散开的,弥漫的"
+        },
+        {
+          "spelling": "dignity",
+          "phonetic": "[`digniti]",
+          "definition_1": "a.尊贵；(举止)庄严"
+        },
+        {
+          "spelling": "diminish",
+          "phonetic": "[di′miniʃ]",
+          "definition_1": "vt.减少，减小，递减"
+        },
+        {
+          "spelling": "dine",
+          "phonetic": "[dain]",
+          "definition_1": "vi.吃饭",
+          "definition_2": "vt.宴请"
+        },
+        {
+          "spelling": "diploma",
+          "phonetic": "[di′plәumә]",
+          "definition_1": "n.毕业文凭，学位证书"
+        },
+        {
+          "spelling": "diplomatic",
+          "phonetic": "[diplә′mætik]",
+          "definition_1": "a.外交的；有策略的"
+        },
+        {
+          "spelling": "disable",
+          "phonetic": "[dis′eibl]",
+          "definition_1": "vt.使无能，使伤残"
+        },
+        {
+          "spelling": "disastrous",
+          "phonetic": "[di′za:strәs]",
+          "definition_1": "a.灾难性的；悲惨的"
+        },
+        {
+          "spelling": "discern",
+          "phonetic": "[di′sә:n]",
+          "definition_1": "vt.看出，辨出；辨别"
+        },
+        {
+          "spelling": "disclose",
+          "phonetic": "[dis′klәuz]",
+          "definition_1": "vt.揭开，揭发；透露"
+        },
+        {
+          "spelling": "discount",
+          "phonetic": "[`diskaunt]",
+          "definition_1": "n.折扣；打折扣卖"
+        },
+        {
+          "spelling": "discrete",
+          "phonetic": "[di′skrit]",
+          "definition_1": "a.不连续的,离散的"
+        },
+        {
+          "spelling": "discriminate",
+          "phonetic": "[dis′krimineit]",
+          "definition_1": "vt.vi.区别对待，歧视"
+        },
+        {
+          "spelling": "displace",
+          "phonetic": "[dis′pleis]",
+          "definition_1": "vt.移置；取代；置换"
+        },
+        {
+          "spelling": "disposition",
+          "phonetic": "[dispә′ziʃәn]",
+          "definition_1": "n.性情,处置,处理,布置"
+        },
+        {
+          "spelling": "disregard",
+          "phonetic": "[`disri′ga:d]",
+          "definition_1": "vt.不管，不顾",
+          "definition_2": "n.不管"
+        },
+        {
+          "spelling": "disrupt",
+          "phonetic": "[dis′rΛpt]",
+          "definition_1": "a.分裂的,分散的",
+          "definition_2": "vt.使分裂,瓦解"
+        },
+        {
+          "spelling": "distract",
+          "phonetic": "[dis′trækt]",
+          "definition_1": "vt.分散 (心思)；打扰"
+        },
+        {
+          "spelling": "disturbance",
+          "phonetic": "[dis′tә:bәns]",
+          "definition_1": "n.动乱；干扰；侵犯"
+        },
+        {
+          "spelling": "diversion",
+          "phonetic": "[dai′vә:ʃәn]",
+          "definition_1": "n.转移；改道；娱乐"
+        },
+        {
+          "spelling": "divert",
+          "phonetic": "[dai′vә:t]",
+          "definition_1": "vt.使转向",
+          "definition_2": "vi.转移"
+        },
+        {
+          "spelling": "dizzy",
+          "phonetic": "[`dizi]",
+          "definition_1": "a.头晕眼花的，眩晕的"
+        },
+        {
+          "spelling": "domain",
+          "phonetic": "[dә′mein]",
+          "definition_1": "n.领域,领土,产业,范围"
+        },
+        {
+          "spelling": "dominant",
+          "phonetic": "[`dɔminәnt]",
+          "definition_1": "a.统治的",
+          "definition_2": "n.主因"
+        },
+        {
+          "spelling": "dominate",
+          "phonetic": "[`dɔmineit]",
+          "definition_1": "vt.统治，支配，控制"
+        },
+        {
+          "spelling": "donate",
+          "phonetic": "[dәu′neit]",
+          "definition_1": "vt.vi.捐赠"
+        },
+        {
+          "spelling": "doom",
+          "phonetic": "[du:m]",
+          "definition_1": "n.命运，毁灭",
+          "definition_2": "vt.注定"
+        },
+        {
+          "spelling": "doubtless",
+          "phonetic": "[`dautlis]",
+          "definition_1": "ad.无疑地；很可能"
+        },
+        {
+          "spelling": "dreadful",
+          "phonetic": "[`dredful]",
+          "definition_1": "a.可怕的；令人敬畏的"
+        },
+        {
+          "spelling": "drought",
+          "phonetic": "[draut]",
+          "definition_1": "n.旱灾，干旱"
+        },
+        {
+          "spelling": "dual",
+          "phonetic": "[`dju:әl]",
+          "definition_1": "a.双重的,双的",
+          "definition_2": "n.双数"
+        },
+        {
+          "spelling": "dwell",
+          "phonetic": "[dwel]",
+          "definition_1": "n.居住",
+          "definition_2": "vi.凝思，细想"
+        },
+        {
+          "spelling": "ecology",
+          "phonetic": "[i(:)′kɔlәdʒi]",
+          "definition_1": "n.生态学；个体生态学"
+        },
+        {
+          "spelling": "economics",
+          "phonetic": "[i:kә′nɔmiks]",
+          "definition_1": "n.经济学；经济"
+        },
+        {
+          "spelling": "edit",
+          "phonetic": "[`edit]",
+          "definition_1": "vt.编辑，编纂；校订"
+        },
+        {
+          "spelling": "elderly",
+          "phonetic": "[`eldәli]",
+          "definition_1": "a.过了中年的,稍老的"
+        },
+        {
+          "spelling": "electrician",
+          "phonetic": "[ilek′triʃәn]",
+          "definition_1": "n.电工，电气技师"
+        },
+        {
+          "spelling": "electronics",
+          "phonetic": "[ilek′trɔniks]",
+          "definition_1": "n.电子学"
+        },
+        {
+          "spelling": "elegant",
+          "phonetic": "[`eligәnt]",
+          "definition_1": "a.(举止、服饰)雅致的"
+        },
+        {
+          "spelling": "elevate",
+          "phonetic": "[`eliveit]",
+          "definition_1": "vt.提高(思想)；抬高"
+        },
+        {
+          "spelling": "eligible",
+          "phonetic": "[`elidʒәbl]",
+          "definition_1": "n.有资格者,合格者a.有资格的"
+        },
+        {
+          "spelling": "elite",
+          "phonetic": "[ei′li:t]",
+          "definition_1": "n.精华,精锐,中坚分子"
+        },
+        {
+          "spelling": "embed",
+          "phonetic": "[im′bed]",
+          "definition_1": "vt.使插入,使嵌入"
+        },
+        {
+          "spelling": "embody",
+          "phonetic": "[im′bɔdi]",
+          "definition_1": "vt.体现；包含，收录"
+        },
+        {
+          "spelling": "enclosure",
+          "phonetic": "[in′klәuʒә]",
+          "definition_1": "n.围绕；围场，围栏"
+        },
+        {
+          "spelling": "endeavor",
+          "phonetic": "[in′dɛvә]",
+          "definition_1": "vi.&n.努力，尽力"
+        },
+        {
+          "spelling": "endow",
+          "phonetic": "[in′dau]",
+          "definition_1": "vt.资助；赋予，授予"
+        },
+        {
+          "spelling": "endurance",
+          "phonetic": "[in′djuәrәns]",
+          "definition_1": "n.耐久力，持久力"
+        },
+        {
+          "spelling": "energetic",
+          "phonetic": "[enә′dʒetik]",
+          "definition_1": "a.积极的；精力旺盛的"
+        },
+        {
+          "spelling": "enhance",
+          "phonetic": "[in′ha:ns]",
+          "definition_1": "vt.提高，增加；夸张"
+        },
+        {
+          "spelling": "enlighten",
+          "phonetic": "[in′laitn]",
+          "definition_1": "vt.启发，开导；启蒙"
+        },
+        {
+          "spelling": "enrich",
+          "phonetic": "[in′ritʃ]",
+          "definition_1": "vt.使富裕；使丰富"
+        },
+        {
+          "spelling": "enroll",
+          "phonetic": "[in′rәul]",
+          "definition_1": "vt.登记，招收vi.参军"
+        },
+        {
+          "spelling": "ensue",
+          "phonetic": "[in′sju:]",
+          "definition_1": "vt.追求",
+          "definition_2": "vi.跟着发生,继起"
+        },
+        {
+          "spelling": "enterprise",
+          "phonetic": "[`entәpraiz]",
+          "definition_1": "n.企业，事业心"
+        },
+        {
+          "spelling": "entertainment",
+          "phonetic": "[entә′teinmәnt]",
+          "definition_1": "n.娱乐,款待,娱乐表演"
+        },
+        {
+          "spelling": "enthusiastic",
+          "phonetic": "[inθju:zi′æstik]",
+          "definition_1": "a.热情的，热心的"
+        },
+        {
+          "spelling": "equator",
+          "phonetic": "[i′kweitә]",
+          "definition_1": "n.赤道，天球赤道"
+        },
+        {
+          "spelling": "essence",
+          "phonetic": "[`esәns]",
+          "definition_1": "n.本质，本体；精华"
+        },
+        {
+          "spelling": "eternal",
+          "phonetic": "[i′tә:nәl]",
+          "definition_1": "n.永久的；不朽的"
+        },
+        {
+          "spelling": "ethics",
+          "phonetic": "[`eθiks]",
+          "definition_1": "n.道德规范"
+        },
+        {
+          "spelling": "ethnic",
+          "phonetic": "[`eθnik]",
+          "definition_1": "a.民族特有的"
+        },
+        {
+          "spelling": "evoke",
+          "phonetic": "[i′vәuk]",
+          "definition_1": "vt.唤起,引起"
+        },
+        {
+          "spelling": "exceptional",
+          "phonetic": "[ik′sepʃәnl]",
+          "definition_1": "a.例外的；优越的"
+        },
+        {
+          "spelling": "exclusive",
+          "phonetic": "[iks′klu:siv]",
+          "definition_1": "a.排外的；孤傲的"
+        },
+        {
+          "spelling": "execution",
+          "phonetic": "[eksi′kju:ʃәn]",
+          "definition_1": "n.实行，执行；处死刑"
+        },
+        {
+          "spelling": "exemplify",
+          "phonetic": "[ig′zemplifai]",
+          "definition_1": "vt.举例证明(解释)"
+        },
+        {
+          "spelling": "exempt",
+          "phonetic": "[ig′zempt]",
+          "definition_1": "a.免除的",
+          "definition_2": "vt.使免除,豁免"
+        },
+        {
+          "spelling": "expel",
+          "phonetic": "[iks′pel]",
+          "definition_1": "vt.驱逐，开除；排出"
+        },
+        {
+          "spelling": "expend",
+          "phonetic": "[iks′pend]",
+          "definition_1": "vt.花费,消耗,支出"
+        },
+        {
+          "spelling": "expenditure",
+          "phonetic": "[iks′penditʃ]",
+          "definition_1": "n.(时间等)支出，消费"
+        },
+        {
+          "spelling": "expertise",
+          "phonetic": "[ekspә′ti:z]",
+          "definition_1": "n.专家的意见,专门技术"
+        },
+        {
+          "spelling": "exposition",
+          "phonetic": "[ekspә′ziʃәn]",
+          "definition_1": "n.说明，解释；陈列"
+        },
+        {
+          "spelling": "exquisite",
+          "phonetic": "[`ekskwizit]",
+          "definition_1": "a.精致的,细腻的,敏锐的"
+        },
+        {
+          "spelling": "extinct",
+          "phonetic": "[iks′tiŋkt]",
+          "definition_1": "a.绝种的；熄灭了的"
+        },
+        {
+          "spelling": "extinguish",
+          "phonetic": "[iks′tiŋgwiʃ]",
+          "definition_1": "vt.熄灭，扑灭；消灭"
+        },
+        {
+          "spelling": "extract",
+          "phonetic": "[iks′trækt,]",
+          "definition_1": "vt.取出；榨取",
+          "definition_2": "n.摘录"
+        },
+        {
+          "spelling": "extravagant",
+          "phonetic": "[iks′trævigәnt]",
+          "definition_1": "a.奢侈的；过度的"
+        },
+        {
+          "spelling": "fake",
+          "phonetic": "[feik]",
+          "definition_1": "n.假货，膺品",
+          "definition_2": "a.假的"
+        },
+        {
+          "spelling": "fantastic",
+          "phonetic": "[fæn′tæstik]",
+          "definition_1": "a.空想的；奇异的"
+        },
+        {
+          "spelling": "fantasy",
+          "phonetic": "[`fæntәsi]",
+          "definition_1": "n.幻想,白日梦"
+        },
+        {
+          "spelling": "fascinate",
+          "phonetic": "[`fæsineit]",
+          "definition_1": "vt.迷住",
+          "definition_2": "vi.迷人"
+        },
+        {
+          "spelling": "fax",
+          "phonetic": "[fæks]",
+          "definition_1": "n.传真",
+          "definition_2": "vt.传真"
+        },
+        {
+          "spelling": "feast",
+          "phonetic": "[fi:st]",
+          "definition_1": "n.盛宴，筵席；节日"
+        },
+        {
+          "spelling": "federation",
+          "phonetic": "[fedә′reiʃәn]",
+          "definition_1": "n.联邦,联合,联盟"
+        },
+        {
+          "spelling": "feeble",
+          "phonetic": "[`fi:bl]",
+          "definition_1": "a.虚弱的；微弱的"
+        },
+        {
+          "spelling": "fellowship",
+          "phonetic": "[`felәuʃip]",
+          "definition_1": "n.伙伴关系；联谊会"
+        },
+        {
+          "spelling": "feminine",
+          "phonetic": "[`feminin]",
+          "definition_1": "a.女性的；女子气的"
+        },
+        {
+          "spelling": "finite",
+          "phonetic": "[`fainait]",
+          "definition_1": "a.有限的；有尽的"
+        },
+        {
+          "spelling": "fist",
+          "phonetic": "[fist]",
+          "definition_1": "n.拳(头)"
+        },
+        {
+          "spelling": "fitting",
+          "phonetic": "[`fitiŋ]",
+          "definition_1": "a.适当的",
+          "definition_2": "n.配合"
+        },
+        {
+          "spelling": "fixture",
+          "phonetic": "[`fikstʃә]",
+          "definition_1": "n.固定；定期存款"
+        },
+        {
+          "spelling": "flatter",
+          "phonetic": "[`flætә]",
+          "definition_1": "vt.奉承，阿谀，谄媚"
+        },
+        {
+          "spelling": "flaw",
+          "phonetic": "[flɔ:]",
+          "definition_1": "n.缺点，瑕疵；裂隙"
+        },
+        {
+          "spelling": "flush",
+          "phonetic": "[flΛʃ]",
+          "definition_1": "vi.奔流；(脸)发红"
+        },
+        {
+          "spelling": "flutter",
+          "phonetic": "[`flΛtә]",
+          "definition_1": "vi.(鸟)振翼；飘动"
+        },
+        {
+          "spelling": "foremost",
+          "phonetic": "[`fɔ:mәust]",
+          "definition_1": "a.最初的；第一流的"
+        },
+        {
+          "spelling": "foresee",
+          "phonetic": "[fɔ:′si:]",
+          "definition_1": "vt.预见，预知，看穿"
+        },
+        {
+          "spelling": "format",
+          "phonetic": "[`fɔ:mæt]",
+          "definition_1": "n.格式",
+          "definition_2": "v.格式化"
+        },
+        {
+          "spelling": "formulate",
+          "phonetic": "[`fɔ:mjuleit]",
+          "definition_1": "vt.用公式表示"
+        },
+        {
+          "spelling": "forthcoming",
+          "phonetic": "[fɔ:θ′kΛmiŋ]",
+          "definition_1": "a.即将到来的；现有的"
+        },
+        {
+          "spelling": "forum",
+          "phonetic": "[`fɔ:rәm]",
+          "definition_1": "n.论坛，讨论会"
+        },
+        {
+          "spelling": "fossil",
+          "phonetic": "[`fɔsl]",
+          "definition_1": "n.化石",
+          "definition_2": "a.化石的"
+        },
+        {
+          "spelling": "foster",
+          "phonetic": "[`fɔstә]",
+          "definition_1": "vt.养育，抚养；培养"
+        },
+        {
+          "spelling": "fragile",
+          "phonetic": "[`frædʒail]",
+          "definition_1": "a.脆的；体质弱的"
+        },
+        {
+          "spelling": "frustrate",
+          "phonetic": "[frΛs′treit]",
+          "definition_1": "vt.挫败；使无效"
+        },
+        {
+          "spelling": "furious",
+          "phonetic": "[`fjuәriәs]",
+          "definition_1": "a.狂怒的；狂暴的"
+        },
+        {
+          "spelling": "fuss",
+          "phonetic": "[fΛs]",
+          "definition_1": "n.忙乱；吹捧",
+          "definition_2": "vi.忙乱"
+        },
+        {
+          "spelling": "galaxy",
+          "phonetic": "[`gælәksi]",
+          "definition_1": "n.银河,星系,一群显赫的人物"
+        },
+        {
+          "spelling": "gallery",
+          "phonetic": "[`gælәri]",
+          "definition_1": "n.长廊，游廊；画廊"
+        },
+        {
+          "spelling": "gamble",
+          "phonetic": "[`gæmbl]",
+          "definition_1": "n.赌博",
+          "definition_2": "vt.冒…的险"
+        },
+        {
+          "spelling": "garbage",
+          "phonetic": "[`ga:bidʒ]",
+          "definition_1": "n.垃圾，污物，废料"
+        },
+        {
+          "spelling": "gasp",
+          "phonetic": "[ga:sp]",
+          "definition_1": "vi.气喘，喘息"
+        },
+        {
+          "spelling": "gear",
+          "phonetic": "[giә]",
+          "definition_1": "n.齿轮，传动装置"
+        },
+        {
+          "spelling": "gene",
+          "phonetic": "[dʒi:n]",
+          "definition_1": "n.基因,因子"
+        },
+        {
+          "spelling": "generalize",
+          "phonetic": "[`dʒenәrәlaiz]",
+          "definition_1": "vt.概括出vi.形成概念"
+        },
+        {
+          "spelling": "genetic",
+          "phonetic": "[dʒә′netik]",
+          "definition_1": "a.遗传的,起源的"
+        },
+        {
+          "spelling": "geology",
+          "phonetic": "[dʒi′ɔlәdʒi]",
+          "definition_1": "n.地质学；(某地)地质"
+        },
+        {
+          "spelling": "given",
+          "phonetic": "[`givn]",
+          "definition_1": "a.赠予的,沉溺的,约定的"
+        },
+        {
+          "spelling": "glare",
+          "phonetic": "[glɛә]",
+          "definition_1": "vi.瞪眼",
+          "definition_2": "n.瞪眼"
+        },
+        {
+          "spelling": "glide",
+          "phonetic": "[glaid]",
+          "definition_1": "vi.滑动；消逝",
+          "definition_2": "n.滑行"
+        },
+        {
+          "spelling": "global",
+          "phonetic": "[`glәubәl]",
+          "definition_1": "a.球面的；全球的"
+        },
+        {
+          "spelling": "gloomy",
+          "phonetic": "[`glu:mi]",
+          "definition_1": "a.黑暗的；令人沮丧的"
+        },
+        {
+          "spelling": "gorgeous",
+          "phonetic": "[`gɔ:dʒәs]",
+          "definition_1": "a.绚丽的；极好的"
+        },
+        {
+          "spelling": "gossip",
+          "phonetic": "[`gɔsip]",
+          "definition_1": "n.闲谈；碎嘴子；漫笔"
+        },
+        {
+          "spelling": "grab",
+          "phonetic": "[græb]",
+          "definition_1": "vt.&vi.攫取，抓取"
+        },
+        {
+          "spelling": "gracious",
+          "phonetic": "[`greiʃәs]",
+          "definition_1": "a.谦和的"
+        },
+        {
+          "spelling": "grief",
+          "phonetic": "[gri:f]",
+          "definition_1": "n.悲哀，悲痛，悲伤"
+        },
+        {
+          "spelling": "grieve",
+          "phonetic": "[gri:v]",
+          "definition_1": "vt.使悲痛",
+          "definition_2": "vi.悲痛"
+        },
+        {
+          "spelling": "grim",
+          "phonetic": "[grim]",
+          "definition_1": "a.冷酷无情的，严厉的"
+        },
+        {
+          "spelling": "groan",
+          "phonetic": "[grәun]",
+          "definition_1": "vi.哼，呻吟",
+          "definition_2": "n.呻吟"
+        },
+        {
+          "spelling": "guideline",
+          "phonetic": "[`gaidlain]",
+          "definition_1": "n.指导路线,方针,指标"
+        },
+        {
+          "spelling": "guy",
+          "phonetic": "[gai]",
+          "definition_1": "n.家伙,支索",
+          "definition_2": "vt.用支索撑住,取笑"
+        },
+        {
+          "spelling": "handbook",
+          "phonetic": "[`hændbuk]",
+          "definition_1": "n.手册，便览，指南"
+        },
+        {
+          "spelling": "handicap",
+          "phonetic": "[`hændikæp]",
+          "definition_1": "vt.妨碍，使不利"
+        },
+        {
+          "spelling": "hasty",
+          "phonetic": "[`heisti]",
+          "definition_1": "a.急速的；仓促的"
+        },
+        {
+          "spelling": "hatch",
+          "phonetic": "[hætʃ]",
+          "definition_1": "vt.舱盖，舱口；短门"
+        },
+        {
+          "spelling": "haul",
+          "phonetic": "[hɔ:l]",
+          "definition_1": "vt.拖曳；拖运"
+        },
+        {
+          "spelling": "haunt",
+          "phonetic": "[hɔ:nt]",
+          "definition_1": "vt.常去",
+          "definition_2": "vi.经常出没"
+        },
+        {
+          "spelling": "heal",
+          "phonetic": "[hi:l]",
+          "definition_1": "vt.治愈；使和解"
+        },
+        {
+          "spelling": "hearing",
+          "phonetic": "[`hiәriŋ]",
+          "definition_1": "n.听,听觉"
+        },
+        {
+          "spelling": "heave",
+          "phonetic": "[hi:v]",
+          "definition_1": "vt.(用力地)举起；抛"
+        },
+        {
+          "spelling": "heighten",
+          "phonetic": "[haitn]",
+          "definition_1": "vt.加高，提高；增加"
+        },
+        {
+          "spelling": "heir",
+          "phonetic": "[ɛә]",
+          "definition_1": "n.后嗣，继承人"
+        },
+        {
+          "spelling": "hemisphere",
+          "phonetic": "[`hemisfiә]",
+          "definition_1": "n.半球；半球地图"
+        },
+        {
+          "spelling": "henceforth",
+          "phonetic": "[`hens′fɔ:θ]",
+          "definition_1": "ad.今后，从今以后"
+        },
+        {
+          "spelling": "heritage",
+          "phonetic": "[`heritidʒ]",
+          "definition_1": "n.遗产,继承物,传统"
+        },
+        {
+          "spelling": "highlight",
+          "phonetic": "[`hailait]",
+          "definition_1": "n.突出,精彩场面vt.加亮,使显著"
+        },
+        {
+          "spelling": "hinder",
+          "phonetic": "[`hindә,]",
+          "definition_1": "a.后面的",
+          "definition_2": "vt.vi.阻碍,打扰"
+        },
+        {
+          "spelling": "historian",
+          "phonetic": "[his′tɔ:riәn]",
+          "definition_1": "n.历史学家；编史家"
+        },
+        {
+          "spelling": "historic",
+          "phonetic": "[his′tɔrik]",
+          "definition_1": "a.历史的；历史性的"
+        },
+        {
+          "spelling": "hitherto",
+          "phonetic": "[`hiðә′tu:]",
+          "definition_1": "ad.迄今，到目前为止"
+        },
+        {
+          "spelling": "homogeneous",
+          "phonetic": "[hɔmә′dʒi:njәs]",
+          "definition_1": "a.同类的；均匀的"
+        },
+        {
+          "spelling": "horrible",
+          "phonetic": "[`hɔrәbl]",
+          "definition_1": "a.可怕的,极可憎的,极可厌的"
+        },
+        {
+          "spelling": "hospitality",
+          "phonetic": "[hɔspi′tæliti]",
+          "definition_1": "n.好客，殷勤；宜人"
+        },
+        {
+          "spelling": "hostage",
+          "phonetic": "[`hɔstidʒ]",
+          "definition_1": "n.人质，抵押品"
+        },
+        {
+          "spelling": "hug",
+          "phonetic": "[hΛg]",
+          "definition_1": "vt.搂",
+          "definition_2": "n.紧紧拥抱"
+        },
+        {
+          "spelling": "humanity",
+          "phonetic": "[hju:′mæniti]",
+          "definition_1": "n.人类；人性，人情"
+        },
+        {
+          "spelling": "humidity",
+          "phonetic": "[hju:′miditi]",
+          "definition_1": "n.湿气；湿度"
+        },
+        {
+          "spelling": "hurricane",
+          "phonetic": "[`hΛrikәn]",
+          "definition_1": "n.飓风，十二级风"
+        },
+        {
+          "spelling": "hypothesis",
+          "phonetic": "[hai′pɔθisi:z]",
+          "definition_1": "n.假设；前提"
+        },
+        {
+          "spelling": "identification",
+          "phonetic": "[aidentifi′keiʃәn]",
+          "definition_1": "n.认出，鉴定；身份证"
+        },
+        {
+          "spelling": "identity",
+          "phonetic": "[ai′dentiti]",
+          "definition_1": "n.相同,身分,恒等式,特性,一致"
+        },
+        {
+          "spelling": "ideology",
+          "phonetic": "[aidi′ɔlәdʒi]",
+          "definition_1": "n.意识形态,思想体系"
+        },
+        {
+          "spelling": "idiom",
+          "phonetic": "[`idiәm]",
+          "definition_1": "n.习语，成语"
+        },
+        {
+          "spelling": "ignorance",
+          "phonetic": "[`ignәrәns]",
+          "definition_1": "n.无知，无学，愚昧"
+        },
+        {
+          "spelling": "illuminate",
+          "phonetic": "[i′′lju:mineit]",
+          "definition_1": "vt.照明，照亮；阐明"
+        },
+        {
+          "spelling": "illusion",
+          "phonetic": "[i′lju:ʒәn]",
+          "definition_1": "n.幻想；错觉；假象"
+        },
+        {
+          "spelling": "imaginative",
+          "phonetic": "[i′mædʒәnәtiv]",
+          "definition_1": "a.想象的,虚构的"
+        },
+        {
+          "spelling": "immerse",
+          "phonetic": "[i′mә:s]",
+          "definition_1": "vt.沉浸；给…施洗礼"
+        },
+        {
+          "spelling": "immune",
+          "phonetic": "[i′mjun]",
+          "definition_1": "a.免疫的,免除的,不受影响的"
+        },
+        {
+          "spelling": "imperative",
+          "phonetic": "[im′perәtiv]",
+          "definition_1": "n.命令,a.命令式的,急需的,强制的"
+        },
+        {
+          "spelling": "implement",
+          "phonetic": "[`implimәnt]",
+          "definition_1": "n.工具vt.实现,使生效,执行"
+        },
+        {
+          "spelling": "implicit",
+          "phonetic": "[im′plisit]",
+          "definition_1": "a.暗示的,盲从的,绝对的,固有的"
+        },
+        {
+          "spelling": "impulse",
+          "phonetic": "[`impΛls]",
+          "definition_1": "n.冲动，推动，脉冲"
+        },
+        {
+          "spelling": "incentive",
+          "phonetic": "[in′sentiv]",
+          "definition_1": "n.动机",
+          "definition_2": "a.激励的"
+        },
+        {
+          "spelling": "incidence",
+          "phonetic": "[`insidәns]",
+          "definition_1": "n.发生，影响；入射"
+        },
+        {
+          "spelling": "incidentally",
+          "phonetic": "[insi′dentәli]",
+          "definition_1": "ad.附带地；顺便提及"
+        },
+        {
+          "spelling": "inclusive",
+          "phonetic": "[in′klu:siv]",
+          "definition_1": "a.包围住的；包括的"
+        },
+        {
+          "spelling": "incorporate",
+          "phonetic": "[in′kɔ:pәreit]",
+          "definition_1": "vt.结合，合并，收编"
+        },
+        {
+          "spelling": "incredible",
+          "phonetic": "[in′kredәbl]",
+          "definition_1": "a.难以置信的，惊人的"
+        },
+        {
+          "spelling": "indefinite",
+          "phonetic": "[in′definit]",
+          "definition_1": "a.不明确的；不定的"
+        },
+        {
+          "spelling": "indicative",
+          "phonetic": "[in′dikәtiv]",
+          "definition_1": "a.指示的；陈述的"
+        },
+        {
+          "spelling": "indignant",
+          "phonetic": "[in′dignәnt]",
+          "definition_1": "a.愤慨的，义愤的"
+        },
+        {
+          "spelling": "indignation",
+          "phonetic": "[indig′neiʃәn]",
+          "definition_1": "n.愤怒，愤慨，义愤"
+        },
+        {
+          "spelling": "inference",
+          "phonetic": "[`infәrәns]",
+          "definition_1": "n.推论；推断的结果"
+        },
+        {
+          "spelling": "inflation",
+          "phonetic": "[in′fleiʃәn]",
+          "definition_1": "n.通货膨胀，物价飞涨"
+        },
+        {
+          "spelling": "inflict",
+          "phonetic": "[in′flikt]",
+          "definition_1": "vt.施以,加害,使承受"
+        },
+        {
+          "spelling": "ingenious",
+          "phonetic": "[in′dʒi:njәs]",
+          "definition_1": "a.机灵的；精巧制成的"
+        },
+        {
+          "spelling": "inhabit",
+          "phonetic": "[in′hæbit]",
+          "definition_1": "vt.居住于，栖息于"
+        },
+        {
+          "spelling": "inhibit",
+          "phonetic": "[in′hibit]",
+          "definition_1": "vt.禁止,抑制"
+        },
+        {
+          "spelling": "initiate",
+          "phonetic": "[i′niʃieit]",
+          "definition_1": "vt.开始，创始；启蒙"
+        },
+        {
+          "spelling": "initiative",
+          "phonetic": "[i′niʃiәtiv]",
+          "definition_1": "a.创始的",
+          "definition_2": "n.第一步"
+        },
+        {
+          "spelling": "inland",
+          "phonetic": "[`inlәnd,]",
+          "definition_1": "a.国内的；内地的"
+        },
+        {
+          "spelling": "innovation",
+          "phonetic": "[inәu′veiʃәn]",
+          "definition_1": "n.创新，改革，新设施"
+        },
+        {
+          "spelling": "innumerable",
+          "phonetic": "[i′nju:mәrәbl]",
+          "definition_1": "a.无数的，数不清的"
+        },
+        {
+          "spelling": "insane",
+          "phonetic": "[in′sein]",
+          "definition_1": "a.患精神病的,不理智的"
+        },
+        {
+          "spelling": "insight",
+          "phonetic": "[`insait]",
+          "definition_1": "n.洞察力，洞悉，见识"
+        },
+        {
+          "spelling": "inspiration",
+          "phonetic": "[inspә′reiʃәn]",
+          "definition_1": "n.灵感；妙想；鼓舞"
+        },
+        {
+          "spelling": "instantaneous",
+          "phonetic": "[instәn′teinjәs]",
+          "definition_1": "a.瞬间的，即刻的"
+        },
+        {
+          "spelling": "instrumental",
+          "phonetic": "[instru′mentl]",
+          "definition_1": "a.仪器的；有帮助的"
+        },
+        {
+          "spelling": "insulate",
+          "phonetic": "[`insjuleit]",
+          "definition_1": "vt.使绝缘，使绝热"
+        },
+        {
+          "spelling": "intact",
+          "phonetic": "[in′tækt]",
+          "definition_1": "a.原封不动的,完整的"
+        },
+        {
+          "spelling": "integral",
+          "phonetic": "[`intigrәl]",
+          "definition_1": "a.组成的；整的"
+        },
+        {
+          "spelling": "integrate",
+          "phonetic": "[`intigreit]",
+          "definition_1": "vt.使结合，使并入"
+        },
+        {
+          "spelling": "integrity",
+          "phonetic": "[in′tegriti]",
+          "definition_1": "n.诚实，正直"
+        },
+        {
+          "spelling": "intellect",
+          "phonetic": "[`intilekt]",
+          "definition_1": "n.理智，智力，才智"
+        },
+        {
+          "spelling": "intelligible",
+          "phonetic": "[in′tælidʒәbl]",
+          "definition_1": "a.可理解,易理解的,明了的"
+        },
+        {
+          "spelling": "intensify",
+          "phonetic": "[in′tensifai]",
+          "definition_1": "vt.vi.加强，强化"
+        },
+        {
+          "spelling": "interact",
+          "phonetic": "[intә′rækt]",
+          "definition_1": "vi.相互作用"
+        },
+        {
+          "spelling": "intervene",
+          "phonetic": "[intә′vi:n]",
+          "definition_1": "vi.干涉，干预；播进"
+        },
+        {
+          "spelling": "intimidate",
+          "phonetic": "[in′timideit]",
+          "definition_1": "vt.威胁,恐吓,胁迫"
+        },
+        {
+          "spelling": "intrinsic",
+          "phonetic": "[in′trinsik]",
+          "definition_1": "a.本质的,原有的,真正的"
+        },
+        {
+          "spelling": "intuition",
+          "phonetic": "[intju′iʃәn]",
+          "definition_1": "n.直觉,直觉的知识"
+        },
+        {
+          "spelling": "invaluable",
+          "phonetic": "[in′væljuәbl]",
+          "definition_1": "a.无价的,价值无法衡量的"
+        },
+        {
+          "spelling": "invariably",
+          "phonetic": "[in′vɛәriәbli]",
+          "definition_1": "ad.不变地，永恒地"
+        },
+        {
+          "spelling": "invert",
+          "phonetic": "[in′vә:t,]",
+          "definition_1": "vt.使反转,使颠倒,使转化"
+        },
+        {
+          "spelling": "irony",
+          "phonetic": "[`aiәrәni]",
+          "definition_1": "n.反讽,讽剌,讽剌之事"
+        },
+        {
+          "spelling": "irrespective",
+          "phonetic": "[iris′pektiv]",
+          "definition_1": "a.不考虑的，不顾的"
+        },
+        {
+          "spelling": "irrigation",
+          "phonetic": "[iri′geiʃәn]",
+          "definition_1": "n.灌溉；冲洗法"
+        },
+        {
+          "spelling": "irritate",
+          "phonetic": "[`iriteit]",
+          "definition_1": "vt.激怒；引起不愉快"
+        },
+        {
+          "spelling": "ivory",
+          "phonetic": "[`aivәri]",
+          "definition_1": "n.象牙；牙质；乳白色"
+        },
+        {
+          "spelling": "jail",
+          "phonetic": "[dʒeil]",
+          "definition_1": "n.监狱",
+          "definition_2": "vi.监禁"
+        },
+        {
+          "spelling": "journalist",
+          "phonetic": "[`dʒә:nәlist]",
+          "definition_1": "n.记者，新闻工作者"
+        },
+        {
+          "spelling": "justification",
+          "phonetic": "[dʒΛstifi′keiʃәn]",
+          "definition_1": "n.辩护,证明是正当的,释罪"
+        },
+        {
+          "spelling": "kidney",
+          "phonetic": "[`kidni]",
+          "definition_1": "n.肾，腰子；性格"
+        },
+        {
+          "spelling": "knit",
+          "phonetic": "[nit]",
+          "definition_1": "vt.把…编结",
+          "definition_2": "vi.编织"
+        },
+        {
+          "spelling": "lamb",
+          "phonetic": "[læm]",
+          "definition_1": "n.羔羊，小羊；羔羊肉"
+        },
+        {
+          "spelling": "landscape",
+          "phonetic": "[`lændskeip]",
+          "definition_1": "n.风景，景色，景致"
+        },
+        {
+          "spelling": "latent",
+          "phonetic": "[`leitәnt]",
+          "definition_1": "a.存在但看不见的"
+        },
+        {
+          "spelling": "lease",
+          "phonetic": "[li:s]",
+          "definition_1": "n.租约，契约，租契"
+        },
+        {
+          "spelling": "legend",
+          "phonetic": "[`ledʒәnd]",
+          "definition_1": "n.传说，传奇"
+        },
+        {
+          "spelling": "legislation",
+          "phonetic": "[ledʒis′leiʃәn]",
+          "definition_1": "n.立法；法规"
+        },
+        {
+          "spelling": "legitimate",
+          "phonetic": "[li′dʒitimit]",
+          "definition_1": "a.合法的,正当的",
+          "definition_2": "vt.使合法"
+        },
+        {
+          "spelling": "liability",
+          "phonetic": "[laiә′biliti]",
+          "definition_1": "n.责任；倾向；债务"
+        },
+        {
+          "spelling": "likelihood",
+          "phonetic": "[`laiklihud]",
+          "definition_1": "n.可能(性)"
+        },
+        {
+          "spelling": "linear",
+          "phonetic": "[`liniә]",
+          "definition_1": "a.线的；长度的"
+        },
+        {
+          "spelling": "literacy",
+          "phonetic": "[`litәrәsi]",
+          "definition_1": "n.读写能力,识字"
+        },
+        {
+          "spelling": "literal",
+          "phonetic": "[`litәrәl]",
+          "definition_1": "a.文字(上)的；字面的"
+        },
+        {
+          "spelling": "locality",
+          "phonetic": "[lәu′kæliti]",
+          "definition_1": "n.位置，地点，发生地"
+        },
+        {
+          "spelling": "longitude",
+          "phonetic": "[`lɔndʒitju:d]",
+          "definition_1": "n.经线，经度"
+        },
+        {
+          "spelling": "lunar",
+          "phonetic": "[`lju:nә]",
+          "definition_1": "a.月亮的"
+        },
+        {
+          "spelling": "magnify",
+          "phonetic": "[`mægnifai]",
+          "definition_1": "vt.放大，扩大"
+        },
+        {
+          "spelling": "magnitude",
+          "phonetic": "[`mægnitju:d]",
+          "definition_1": "n.大小；重大；星等"
+        },
+        {
+          "spelling": "mall",
+          "phonetic": "[mɔ:l]",
+          "definition_1": "n.大型购物中心"
+        },
+        {
+          "spelling": "manipulate",
+          "phonetic": "[mә′nipjuleit]",
+          "definition_1": "vt.操作；控制，手持"
+        },
+        {
+          "spelling": "massive",
+          "phonetic": "[`mæsiv]",
+          "definition_1": "a.粗大的；大而重的"
+        },
+        {
+          "spelling": "masterpiece",
+          "phonetic": "[`ma:stәpi:s]",
+          "definition_1": "n.杰作，名著"
+        },
+        {
+          "spelling": "mechanism",
+          "phonetic": "[`mekәnizәm]",
+          "definition_1": "n.机械装置；机制"
+        },
+        {
+          "spelling": "media",
+          "phonetic": "[`mi:diә]",
+          "definition_1": "n.媒体"
+        },
+        {
+          "spelling": "melody",
+          "phonetic": "[`melәdi]",
+          "definition_1": "n.旋律，曲调；歌曲"
+        },
+        {
+          "spelling": "membership",
+          "phonetic": "[`membәʃip]",
+          "definition_1": "n.成员资格；会员人数"
+        },
+        {
+          "spelling": "merge",
+          "phonetic": "[mә:dʒ]",
+          "definition_1": "vt.使合并,使并为一体"
+        },
+        {
+          "spelling": "mess",
+          "phonetic": "[mes]",
+          "definition_1": "vt.弄脏，弄乱，搞糟"
+        },
+        {
+          "spelling": "messenger",
+          "phonetic": "[`mesindʒә]",
+          "definition_1": "n.送信者，信使"
+        },
+        {
+          "spelling": "metallic",
+          "phonetic": "[mi′tælik]",
+          "definition_1": "a.金属的",
+          "definition_2": "n.金属粒子"
+        },
+        {
+          "spelling": "migrate",
+          "phonetic": "[mai′greit]",
+          "definition_1": "vi.迁移，移居"
+        },
+        {
+          "spelling": "minimal",
+          "phonetic": "[`miniml]",
+          "definition_1": "a.最小的,极微的,最小限度的"
+        },
+        {
+          "spelling": "minimize",
+          "phonetic": "[`minimaiz]",
+          "definition_1": "vt.使减到最小"
+        },
+        {
+          "spelling": "misery",
+          "phonetic": "[`mizәri]",
+          "definition_1": "n.痛苦，悲惨，不幸"
+        },
+        {
+          "spelling": "misfortune",
+          "phonetic": "[mis′fɔ:tʃәn]",
+          "definition_1": "n.不幸，灾祸，灾难"
+        },
+        {
+          "spelling": "mobilize",
+          "phonetic": "[`mәubilaiz]",
+          "definition_1": "vt.动员",
+          "definition_2": "vi.动员起来"
+        },
+        {
+          "spelling": "mock",
+          "phonetic": "[mɔk]",
+          "definition_1": "n.嘲弄",
+          "definition_2": "vt.嘲弄，挖苦"
+        },
+        {
+          "spelling": "momentum",
+          "phonetic": "[mou′mentәm]",
+          "definition_1": "n.动力,要素"
+        },
+        {
+          "spelling": "monster",
+          "phonetic": "[`mɔnstә]",
+          "definition_1": "n.怪物；畸形的动植物"
+        },
+        {
+          "spelling": "morality",
+          "phonetic": "[mә′ræliti]",
+          "definition_1": "n.道德，美德，品行"
+        },
+        {
+          "spelling": "mortal",
+          "phonetic": "[`mɔ:tl]",
+          "definition_1": "a.终有一死的；致死的"
+        },
+        {
+          "spelling": "mortgage",
+          "phonetic": "[`mɔ:gidʒ]",
+          "definition_1": "n.抵押",
+          "definition_2": "vt.抵押"
+        },
+        {
+          "spelling": "motel",
+          "phonetic": "[mәu′tel]",
+          "definition_1": "n.汽车游客旅馆"
+        },
+        {
+          "spelling": "mourn",
+          "phonetic": "[mɔ:n]",
+          "definition_1": "vi.哀痛，哀悼"
+        },
+        {
+          "spelling": "muddy",
+          "phonetic": "[`mΛdi]",
+          "definition_1": "a.多泥的，泥泞的"
+        },
+        {
+          "spelling": "multitude",
+          "phonetic": "[`mΛltitju:d]",
+          "definition_1": "n.大批，大群；大量"
+        },
+        {
+          "spelling": "muscular",
+          "phonetic": "[`mΛskjulә]",
+          "definition_1": "a.肌肉发达的，强健的"
+        },
+        {
+          "spelling": "mutter",
+          "phonetic": "[`mΛtә]",
+          "definition_1": "vi.轻声低语；抱怨"
+        },
+        {
+          "spelling": "myth",
+          "phonetic": "[miθ]",
+          "definition_1": "n.神话,虚构的事,虚构的人"
+        },
+        {
+          "spelling": "naive",
+          "phonetic": "[na:′i:v]",
+          "definition_1": "a.天真的,纯真的,朴素的"
+        },
+        {
+          "spelling": "narrative",
+          "phonetic": "[`nærәtiv]",
+          "definition_1": "n.叙述,故事",
+          "definition_2": "a.叙述的,叙事的"
+        },
+        {
+          "spelling": "nasty",
+          "phonetic": "[`na:sti]",
+          "definition_1": "a.龌龊的；淫猥的"
+        },
+        {
+          "spelling": "necessitate",
+          "phonetic": "[ni′sesiteit]",
+          "definition_1": "vt.迫使,使成为必需,需要"
+        },
+        {
+          "spelling": "negligible",
+          "phonetic": "[`neglidʒәbl]",
+          "definition_1": "a.微不足道的"
+        },
+        {
+          "spelling": "negotiate",
+          "phonetic": "[ni′gәuʃieit]",
+          "definition_1": "vi.谈判，交涉，议定"
+        },
+        {
+          "spelling": "nightmare",
+          "phonetic": "[`naitmɛә]",
+          "definition_1": "n.恶梦；经常的恐惧"
+        },
+        {
+          "spelling": "nominal",
+          "phonetic": "[`nɔminl]",
+          "definition_1": "a.名义上的,名字的",
+          "definition_2": "n.名词性词"
+        },
+        {
+          "spelling": "nominate",
+          "phonetic": "[`nɔmineit]",
+          "definition_1": "vt.提名，推荐；任命"
+        },
+        {
+          "spelling": "nonetheless",
+          "phonetic": "[`nΛnðә′les]",
+          "definition_1": "adv.尽管如此,然而"
+        },
+        {
+          "spelling": "norm",
+          "phonetic": "[nɔ:m]",
+          "definition_1": "n.标准，规范；平均数"
+        },
+        {
+          "spelling": "notable",
+          "phonetic": "[`nәutәbl]",
+          "definition_1": "n.值得注意的；著名的"
+        },
+        {
+          "spelling": "notation",
+          "phonetic": "[nou′teiʃәn]",
+          "definition_1": "n.记号法,表示法,注释"
+        },
+        {
+          "spelling": "notify",
+          "phonetic": "[`nәutifai]",
+          "definition_1": "vt.通知，告知；报告"
+        },
+        {
+          "spelling": "notion",
+          "phonetic": "[`nәuʃәn]",
+          "definition_1": "n.概念，意念；看法"
+        },
+        {
+          "spelling": "notwithstanding",
+          "phonetic": "[nɔtwiθ′stændiŋ]",
+          "definition_1": "prep.尽管，虽然"
+        },
+        {
+          "spelling": "nourish",
+          "phonetic": "[`nΛriʃ]",
+          "definition_1": "vt.提供养分，养育"
+        },
+        {
+          "spelling": "novelty",
+          "phonetic": "[`nɔvәlti]",
+          "definition_1": "n.新颖；新奇的事物"
+        },
+        {
+          "spelling": "numerical",
+          "phonetic": "[nju′merikәl]",
+          "definition_1": "a.数字的，数值的"
+        },
+        {
+          "spelling": "nutrition",
+          "phonetic": "[nju:′triʃәn]",
+          "definition_1": "n.营养,营养学"
+        },
+        {
+          "spelling": "oath",
+          "phonetic": "[әuθ]",
+          "definition_1": "n.誓言，誓约，宣誓"
+        },
+        {
+          "spelling": "obedient",
+          "phonetic": "[ә′bi:djәnt]",
+          "definition_1": "n.服从的，顺从的"
+        },
+        {
+          "spelling": "obligation",
+          "phonetic": "[ɔbli′geiʃәn]",
+          "definition_1": "n.义务，职责，责任"
+        },
+        {
+          "spelling": "obscure",
+          "phonetic": "[әb′skjuә]",
+          "definition_1": "a.阴暗的；蒙昧的"
+        },
+        {
+          "spelling": "odor",
+          "phonetic": "[`әudә]",
+          "definition_1": "n.气味,名声,味"
+        },
+        {
+          "spelling": "offence",
+          "phonetic": "[ә′fens]",
+          "definition_1": "n.犯罪，犯规；冒犯"
+        },
+        {
+          "spelling": "offensive",
+          "phonetic": "[ә′fensiv]",
+          "definition_1": "a.冒犯的；进攻的"
+        },
+        {
+          "spelling": "offset",
+          "phonetic": "[`ɔ:fset]",
+          "definition_1": "n.分支，抵销",
+          "definition_2": "vt.抵销"
+        },
+        {
+          "spelling": "offspring",
+          "phonetic": "[`ɔ(:)fspriŋ]",
+          "definition_1": "n.儿女，子孙，后代"
+        },
+        {
+          "spelling": "oppress",
+          "phonetic": "[ә′pres]",
+          "definition_1": "vt.压迫，压制；压抑"
+        },
+        {
+          "spelling": "optimism",
+          "phonetic": "[`ɔptimizm]",
+          "definition_1": "n.乐观，乐观主义"
+        },
+        {
+          "spelling": "optimum",
+          "phonetic": "[`ɔptimiәm]",
+          "definition_1": "n.最适条件，最适度"
+        },
+        {
+          "spelling": "option",
+          "phonetic": "[`ɔpʃәn]",
+          "definition_1": "n.选择，取舍"
+        },
+        {
+          "spelling": "oriental",
+          "phonetic": "[ɔri′entl]",
+          "definition_1": "a.东方的；东方国家的"
+        },
+        {
+          "spelling": "orientation",
+          "phonetic": "[ɔ:rien′teiʃәn]",
+          "definition_1": "n.向东；定位；方向"
+        },
+        {
+          "spelling": "originate",
+          "phonetic": "[ә′ridʒineit]",
+          "definition_1": "vi.发源",
+          "definition_2": "vt.首创"
+        },
+        {
+          "spelling": "ornament",
+          "phonetic": "[`ɔ:nәmәnt,]",
+          "definition_1": "n.装饰物",
+          "definition_2": "vt.装修"
+        },
+        {
+          "spelling": "outbreak",
+          "phonetic": "[`autbreik]",
+          "definition_1": "n.(战争、愤怒等)爆发"
+        },
+        {
+          "spelling": "overflow",
+          "phonetic": "[әuvә′flәu]",
+          "definition_1": "vt.从…中溢出"
+        },
+        {
+          "spelling": "overhear",
+          "phonetic": "[әuvә′hiә]",
+          "definition_1": "vt.偶然听到；偷听"
+        },
+        {
+          "spelling": "overthrow",
+          "phonetic": "[,әuvә′θrәu]",
+          "definition_1": "vt.推翻",
+          "definition_2": "n.推翻，瓦解"
+        },
+        {
+          "spelling": "overwhelm",
+          "phonetic": "[әuvә′hwelm]",
+          "definition_1": "vt.压倒，使不知所措"
+        },
+        {
+          "spelling": "oxide",
+          "phonetic": "[`ɔksaid]",
+          "definition_1": "n.氧化物"
+        },
+        {
+          "spelling": "panic",
+          "phonetic": "[`pænik]",
+          "definition_1": "n.恐慌，惊慌"
+        },
+        {
+          "spelling": "paradise",
+          "phonetic": "[`pærәdais]",
+          "definition_1": "n.伊甸乐园；天堂"
+        },
+        {
+          "spelling": "paradox",
+          "phonetic": "[`pærәdɔks]",
+          "definition_1": "n.似非而是的论点,自相矛盾的话"
+        },
+        {
+          "spelling": "paralyze",
+          "phonetic": "[`pærәlaiz]",
+          "definition_1": "vt.使瘫痪,使麻痹"
+        },
+        {
+          "spelling": "parameter",
+          "phonetic": "[pә′ræmitә]",
+          "definition_1": "n.参(变)数；参量"
+        },
+        {
+          "spelling": "participant",
+          "phonetic": "[pa:′tisipәnt]",
+          "definition_1": "n.参加者",
+          "definition_2": "a.有份的"
+        },
+        {
+          "spelling": "partition",
+          "phonetic": "[pa:′tiʃәn]",
+          "definition_1": "n.分开，分割；融墙"
+        },
+        {
+          "spelling": "pastime",
+          "phonetic": "[`pa:staim]",
+          "definition_1": "n.消遣，娱乐"
+        },
+        {
+          "spelling": "patriotic",
+          "phonetic": "[pætri′ɔtik]",
+          "definition_1": "a.爱国的"
+        },
+        {
+          "spelling": "pave",
+          "phonetic": "[peiv]",
+          "definition_1": "vt.铺，筑(路等)"
+        },
+        {
+          "spelling": "pearl",
+          "phonetic": "[pә:l]",
+          "definition_1": "n.珍珠；珍珠母"
+        },
+        {
+          "spelling": "peel",
+          "phonetic": "[pi:l]",
+          "definition_1": "vt.剥(皮)，削(皮)"
+        },
+        {
+          "spelling": "penalty",
+          "phonetic": "[`penlti]",
+          "definition_1": "n.处罚，刑罚；罚款"
+        },
+        {
+          "spelling": "pension",
+          "phonetic": "[`penʃәn]",
+          "definition_1": "n.抚恤金，年金"
+        },
+        {
+          "spelling": "perception",
+          "phonetic": "[pә′sepʃәn]",
+          "definition_1": "n.感觉；概念；理解力"
+        },
+        {
+          "spelling": "perfection",
+          "phonetic": "[pә′fekʃәn]",
+          "definition_1": "n.尽善尽美；无比精确"
+        },
+        {
+          "spelling": "perfume",
+          "phonetic": "[`pә:fju:m,]",
+          "definition_1": "n.香水,芳香,香味,馨香",
+          "definition_2": "vt.使香气弥漫,在…上撒香水,抹香水"
+        },
+        {
+          "spelling": "periodic",
+          "phonetic": "[`piәri′ɔdik]",
+          "definition_1": "n.周期的；一定时期的"
+        },
+        {
+          "spelling": "periodical",
+          "phonetic": "[piәri′ɔdikәl]",
+          "definition_1": "n.期刊，杂志"
+        },
+        {
+          "spelling": "perish",
+          "phonetic": "[`periʃ]",
+          "definition_1": "vi.死亡，夭折；枯萎"
+        },
+        {
+          "spelling": "permeate",
+          "phonetic": "[`pә:miet]",
+          "definition_1": "vt.弥漫,渗透,充满",
+          "definition_2": "vi.透入"
+        },
+        {
+          "spelling": "permissible",
+          "phonetic": "[pә′misәbl]",
+          "definition_1": "a.可允许的"
+        },
+        {
+          "spelling": "perpetual",
+          "phonetic": "[pә′petʃuәl]",
+          "definition_1": "a.永久的；四季开花的"
+        },
+        {
+          "spelling": "persistent",
+          "phonetic": "[pә(:)′sistәnt]",
+          "definition_1": "a.固执的,坚持的,持续的"
+        },
+        {
+          "spelling": "pest",
+          "phonetic": "[pest]",
+          "definition_1": "n.害虫；害人虫"
+        },
+        {
+          "spelling": "petition",
+          "phonetic": "[pi′tiʃәn]",
+          "definition_1": "n.请愿",
+          "definition_2": "vt.向…请愿"
+        },
+        {
+          "spelling": "petty",
+          "phonetic": "[`peti]",
+          "definition_1": "a.细小的；器量小的"
+        },
+        {
+          "spelling": "physiological",
+          "phonetic": "[fiziә′lɔdʒikәl]",
+          "definition_1": "a.生理学的,生理学上的"
+        },
+        {
+          "spelling": "plaster",
+          "phonetic": "[`pla:stә]",
+          "definition_1": "n.灰泥；硬膏；熟石膏"
+        },
+        {
+          "spelling": "plausible",
+          "phonetic": "[`plɔ:zәbl]",
+          "definition_1": "a.似乎真实的,似乎合理的"
+        },
+        {
+          "spelling": "plead",
+          "phonetic": "[pli:d]",
+          "definition_1": "vt.为…辩护",
+          "definition_2": "vi.抗辩"
+        },
+        {
+          "spelling": "pledge",
+          "phonetic": "[pledʒ]",
+          "definition_1": "n.誓言",
+          "definition_2": "vt.使发誓"
+        },
+        {
+          "spelling": "poke",
+          "phonetic": "[pәuk]",
+          "definition_1": "vt.戳，刺；伸(头等)"
+        },
+        {
+          "spelling": "polar",
+          "phonetic": "[`pәulә]",
+          "definition_1": "a.南(北)极的；极性的"
+        },
+        {
+          "spelling": "poll",
+          "phonetic": "[pәul]",
+          "definition_1": "n.投票",
+          "definition_2": "vi.投票"
+        },
+        {
+          "spelling": "ponder",
+          "phonetic": "[`pɔndә]",
+          "definition_1": "vt.考虑",
+          "definition_2": "vi.沉思"
+        },
+        {
+          "spelling": "porch",
+          "phonetic": "[pɔ:tʃ]",
+          "definition_1": "n.门廊，入口处"
+        },
+        {
+          "spelling": "pore",
+          "phonetic": "[pɔ:]",
+          "definition_1": "n.毛孔，气孔，细孔"
+        },
+        {
+          "spelling": "pose",
+          "phonetic": "[pәuz]",
+          "definition_1": "vi.假装，摆姿势",
+          "definition_2": "n.姿势"
+        },
+        {
+          "spelling": "poster",
+          "phonetic": "[`pәustә]",
+          "definition_1": "n.海报,招贴,脚夫"
+        },
+        {
+          "spelling": "postulate",
+          "phonetic": "[`pɔstjuleit]",
+          "definition_1": "vt.要求，假定，假设"
+        },
+        {
+          "spelling": "practicable",
+          "phonetic": "[`præktikәbl]",
+          "definition_1": "a.能实行的；适用的"
+        },
+        {
+          "spelling": "prayer",
+          "phonetic": "[`prɛә]",
+          "definition_1": "n.祈祷，祈求"
+        },
+        {
+          "spelling": "preach",
+          "phonetic": "[pri:tʃ]",
+          "definition_1": "vt.说教，布道；鼓吹"
+        },
+        {
+          "spelling": "precede",
+          "phonetic": "[pri(:)′si:d]",
+          "definition_1": "vt.先于…",
+          "definition_2": "vi.领先"
+        },
+        {
+          "spelling": "preclude",
+          "phonetic": "[pri′klu:d]",
+          "definition_1": "vt.预先排除,预防,阻止,妨碍"
+        },
+        {
+          "spelling": "predecessor",
+          "phonetic": "[`pri:disesә]",
+          "definition_1": "n.前辈，前任者"
+        },
+        {
+          "spelling": "predominant",
+          "phonetic": "[pri′dɔminәnt]",
+          "definition_1": "a.占优势的；主要的"
+        },
+        {
+          "spelling": "pregnant",
+          "phonetic": "[`pregnәnt]",
+          "definition_1": "a.怀孕的；意义深长的"
+        },
+        {
+          "spelling": "premature",
+          "phonetic": "[pri:mә′tjuә]",
+          "definition_1": "a.早熟,过早的",
+          "definition_2": "n.早产儿"
+        },
+        {
+          "spelling": "premise",
+          "phonetic": "[`premis,]",
+          "definition_1": "n.前提,假设，房产"
+        },
+        {
+          "spelling": "prescription",
+          "phonetic": "[pris′kripʃәn]",
+          "definition_1": "n.药方，处方的药"
+        },
+        {
+          "spelling": "presentation",
+          "phonetic": "[prezen′teiʃәn]",
+          "definition_1": "n.介绍；赠送；呈现"
+        },
+        {
+          "spelling": "preside",
+          "phonetic": "[pri′zaid]",
+          "definition_1": "vi.主持；主奏"
+        },
+        {
+          "spelling": "prestige",
+          "phonetic": "[pres′ti:ʒ]",
+          "definition_1": "n.威望，威信，声望"
+        },
+        {
+          "spelling": "presumably",
+          "phonetic": "[pri′zju:mәbli]",
+          "definition_1": "ad.推测起来，大概"
+        },
+        {
+          "spelling": "presume",
+          "phonetic": "[pri′zju:m]",
+          "definition_1": "vt.假定，假设，揣测"
+        },
+        {
+          "spelling": "prevalent",
+          "phonetic": "[`prevәlәnt]",
+          "definition_1": "a.流行的；盛行的"
+        },
+        {
+          "spelling": "prey",
+          "phonetic": "[prei]",
+          "definition_1": "vi.猎物",
+          "definition_2": "vi.捕获"
+        },
+        {
+          "spelling": "priority",
+          "phonetic": "[prai′ɔriti]",
+          "definition_1": "n.先，前；优先，重点"
+        },
+        {
+          "spelling": "privacy",
+          "phonetic": "[`praivәsi]",
+          "definition_1": "n.隐私,隐居,秘密"
+        },
+        {
+          "spelling": "probe",
+          "phonetic": "[prәub]",
+          "definition_1": "n.探针",
+          "definition_2": "vt.用探针探查"
+        },
+        {
+          "spelling": "proceeding",
+          "phonetic": "[prә′si:diŋ]",
+          "definition_1": "n.程序，行动，事项"
+        },
+        {
+          "spelling": "proclaim",
+          "phonetic": "[prә′kleim]",
+          "definition_1": "vt.宣告，宣布；表明"
+        },
+        {
+          "spelling": "productive",
+          "phonetic": "[prә′dΛktiv]",
+          "definition_1": "a.生产的；出产…的"
+        },
+        {
+          "spelling": "productivity",
+          "phonetic": "[prәdΛk′tiviti]",
+          "definition_1": "n.生产率；多产"
+        },
+        {
+          "spelling": "proficiency",
+          "phonetic": "[prә′fiʃәnsi]",
+          "definition_1": "n.熟练，精通"
+        },
+        {
+          "spelling": "profile",
+          "phonetic": "[`prәufail]",
+          "definition_1": "n.侧面,轮廓,人物素描,传略"
+        },
+        {
+          "spelling": "profitable",
+          "phonetic": "[`prɔfitәbl]",
+          "definition_1": "a.有利的；有益的"
+        },
+        {
+          "spelling": "profound",
+          "phonetic": "[prә′faund]",
+          "definition_1": "a.深刻的；渊博的"
+        },
+        {
+          "spelling": "prolong",
+          "phonetic": "[prә′lɔŋ]",
+          "definition_1": "vt.延长，拉长，拖延"
+        },
+        {
+          "spelling": "promising",
+          "phonetic": "[`prɔmisiŋ]",
+          "definition_1": "a.有希望的；有前途的"
+        },
+        {
+          "spelling": "propagate",
+          "phonetic": "[`prɔpәgeit]",
+          "definition_1": "vt.繁殖；传播，普及"
+        },
+        {
+          "spelling": "propel",
+          "phonetic": "[prә′pel]",
+          "definition_1": "vt.推进，推动"
+        },
+        {
+          "spelling": "proposition",
+          "phonetic": "[prɔpә′ziʃәn]",
+          "definition_1": "n.命题，主题；提议"
+        },
+        {
+          "spelling": "prospective",
+          "phonetic": "[prәs′pektiv]",
+          "definition_1": "a.有希望的,预期,将来的"
+        },
+        {
+          "spelling": "provocative",
+          "phonetic": "[prә′vɔkәtiv]",
+          "definition_1": "a.挑衅的,刺激的,挑逗的"
+        },
+        {
+          "spelling": "provoke",
+          "phonetic": "[prә′vәuk]",
+          "definition_1": "vt.激怒,惹起,驱使"
+        },
+        {
+          "spelling": "publicity",
+          "phonetic": "[pΛb′lisiti]",
+          "definition_1": "n.公开,名声,宣传"
+        },
+        {
+          "spelling": "purify",
+          "phonetic": "[`pjuәrifai]",
+          "definition_1": "vt.提纯，精炼(金属)"
+        },
+        {
+          "spelling": "purity",
+          "phonetic": "[`pjuәriti]",
+          "definition_1": "n.纯净；纯洁；纯度"
+        },
+        {
+          "spelling": "pursuit",
+          "phonetic": "[pә′sju:t]",
+          "definition_1": "n.追赶；追求；事务"
+        },
+        {
+          "spelling": "qualification",
+          "phonetic": "[kwɔlifi′keiʃәn]",
+          "definition_1": "n.资格；限制条件"
+        },
+        {
+          "spelling": "qualitative",
+          "phonetic": "[`kwɔlitәtiv]",
+          "definition_1": "a.质的；定性的"
+        },
+        {
+          "spelling": "quantify",
+          "phonetic": "[`kwɔntifai]",
+          "definition_1": "vt.确定…的数量"
+        },
+        {
+          "spelling": "quantitative",
+          "phonetic": "[`kwɔntitәtiv]",
+          "definition_1": "a.量的；定量的"
+        },
+        {
+          "spelling": "quarterly",
+          "phonetic": "[`kwɔ:tәli]",
+          "definition_1": "a.季度的",
+          "definition_2": "ad.季度地"
+        },
+        {
+          "spelling": "quest",
+          "phonetic": "[kwest]",
+          "definition_1": "vt.寻找",
+          "definition_2": "vi.追求"
+        },
+        {
+          "spelling": "questionnaire",
+          "phonetic": "[kwestʃә′nɛә]",
+          "definition_1": "n.调查表，征求意见表"
+        },
+        {
+          "spelling": "radiate",
+          "phonetic": "[`reidieit]",
+          "definition_1": "vi.发射光线；辐射"
+        },
+        {
+          "spelling": "radical",
+          "phonetic": "[`rædikәl]",
+          "definition_1": "a.基本的；激进的"
+        },
+        {
+          "spelling": "rage",
+          "phonetic": "[reidʒ]",
+          "definition_1": "n.(一阵)狂怒，盛怒"
+        },
+        {
+          "spelling": "rally",
+          "phonetic": "[`ræli]",
+          "definition_1": "n.&vt.&vi.(重新)集合"
+        },
+        {
+          "spelling": "random",
+          "phonetic": "[`rændәm]",
+          "definition_1": "n.随机",
+          "definition_2": "a.随机的"
+        },
+        {
+          "spelling": "rating",
+          "phonetic": "[`reitiŋ]",
+          "definition_1": "n.等级,评定结果，收视(听)率"
+        },
+        {
+          "spelling": "readily",
+          "phonetic": "[`redili]",
+          "definition_1": "ad.乐意地；无困难地"
+        },
+        {
+          "spelling": "realistic",
+          "phonetic": "[riә′listik]",
+          "definition_1": "a.现实的；现实主义的"
+        },
+        {
+          "spelling": "reap",
+          "phonetic": "[ri:p]",
+          "definition_1": "vt.&vi.收割，收获"
+        },
+        {
+          "spelling": "rebellion",
+          "phonetic": "[ri′beljәn]",
+          "definition_1": "n.造反；叛乱；反抗"
+        },
+        {
+          "spelling": "recession",
+          "phonetic": "[ri′seʃәn]",
+          "definition_1": "n.(经济)衰退,不景气"
+        },
+        {
+          "spelling": "recipient",
+          "phonetic": "[ri′sipiәnt]",
+          "definition_1": "n.接受者，接收者"
+        },
+        {
+          "spelling": "reciprocal",
+          "phonetic": "[ri′siprәkәl]",
+          "definition_1": "a.相互的；互利的"
+        },
+        {
+          "spelling": "recite",
+          "phonetic": "[ri′sait]",
+          "definition_1": "vt.&vi.背诵，朗诵"
+        },
+        {
+          "spelling": "reckless",
+          "phonetic": "[`reklis]",
+          "definition_1": "a.粗心大意的；鲁莽的"
+        },
+        {
+          "spelling": "reckon",
+          "phonetic": "[`rekәn]",
+          "definition_1": "vi.数，算帐",
+          "definition_2": "vt.认为"
+        },
+        {
+          "spelling": "reclaim",
+          "phonetic": "[ri′kleim]",
+          "definition_1": "vt.开垦，开拓；回收"
+        },
+        {
+          "spelling": "reconcile",
+          "phonetic": "[`rekәnsail]",
+          "definition_1": "vt.使和好；调停"
+        },
+        {
+          "spelling": "recreation",
+          "phonetic": "[rekri′eiʃәn]",
+          "definition_1": "n.消遣，娱乐活动"
+        },
+        {
+          "spelling": "recruit",
+          "phonetic": "[ri′kru:t]",
+          "definition_1": "vi.征募(新兵),招收",
+          "definition_2": "n.新兵,新成员"
+        },
+        {
+          "spelling": "rectangular",
+          "phonetic": "[rek′tæŋgjulә]",
+          "definition_1": "a.矩形的,成直角的"
+        },
+        {
+          "spelling": "rectify",
+          "phonetic": "[`rektifai]",
+          "definition_1": "vt.纠正；调整；精馏"
+        },
+        {
+          "spelling": "recur",
+          "phonetic": "[ri′kә:]",
+          "definition_1": "vi.复发,重现,再发生"
+        },
+        {
+          "spelling": "recycle",
+          "phonetic": "[`ri:′saikl]",
+          "definition_1": "vt.使再循环,再利用,再制"
+        },
+        {
+          "spelling": "redundant",
+          "phonetic": "[ri′dΛndәnt]",
+          "definition_1": "a.多余的,过多的,冗长的"
+        },
+        {
+          "spelling": "refrain",
+          "phonetic": "[ri′frein]",
+          "definition_1": "vi.抑制，制止，忍住"
+        },
+        {
+          "spelling": "refreshment",
+          "phonetic": "[ri′freʃmәnt]",
+          "definition_1": "n.茶点，点心，便餐"
+        },
+        {
+          "spelling": "refugee",
+          "phonetic": "[refju:′dʒi:]",
+          "definition_1": "n.难民，流亡者"
+        },
+        {
+          "spelling": "refute",
+          "phonetic": "[ri′fju:t]",
+          "definition_1": "vt.驳斥，反驳，驳倒"
+        },
+        {
+          "spelling": "regime",
+          "phonetic": "[rei′ʒi:m]",
+          "definition_1": "n.政体，政权；制度"
+        },
+        {
+          "spelling": "rejoice",
+          "phonetic": "[ri′dʒɔis]",
+          "definition_1": "vi.欣喜，高兴"
+        },
+        {
+          "spelling": "reliance",
+          "phonetic": "[ri′laiәns]",
+          "definition_1": "n.信任，信赖，信心"
+        },
+        {
+          "spelling": "remainder",
+          "phonetic": "[ri′meindә]",
+          "definition_1": "n.剩余(物)；余数"
+        },
+        {
+          "spelling": "remnant",
+          "phonetic": "[`remnәnt]",
+          "definition_1": "n.残留部分，遗迹",
+          "definition_2": "a.剩余,残余的"
+        },
+        {
+          "spelling": "repay",
+          "phonetic": "[ri:′pei]",
+          "definition_1": "vt.&vi.偿还，报答"
+        },
+        {
+          "spelling": "repel",
+          "phonetic": "[ri′pel]",
+          "definition_1": "vt.拒绝；使厌恶"
+        },
+        {
+          "spelling": "replacement",
+          "phonetic": "[ri′pleismәnt]",
+          "definition_1": "n.归还；取代；置换"
+        },
+        {
+          "spelling": "representation",
+          "phonetic": "[reprizen′teiʃәn]",
+          "definition_1": "n.描写；陈述；代表"
+        },
+        {
+          "spelling": "reproach",
+          "phonetic": "[ri′prәutʃ]",
+          "definition_1": "vt.&n.责备，指责"
+        },
+        {
+          "spelling": "republican",
+          "phonetic": "[ri′pΛblikәn]",
+          "definition_1": "a.共和国的"
+        },
+        {
+          "spelling": "resemblance",
+          "phonetic": "[ri′zemblәns]",
+          "definition_1": "n.相似，相似性"
+        },
+        {
+          "spelling": "resent",
+          "phonetic": "[ri′zent]",
+          "definition_1": "vt.对…不满，怨恨"
+        },
+        {
+          "spelling": "reservation",
+          "phonetic": "[rezә′veiʃәn]",
+          "definition_1": "n.保留；预定，预订"
+        },
+        {
+          "spelling": "reside",
+          "phonetic": "[ri′zaid]",
+          "definition_1": "vi.居住，驻扎；属于"
+        },
+        {
+          "spelling": "residential",
+          "phonetic": "[rezi′denʃәl]",
+          "definition_1": "a.住宅的,与居住有关的"
+        },
+        {
+          "spelling": "resultant",
+          "phonetic": "[ri′zΛltәnt]",
+          "definition_1": "a.作为结果而发生的"
+        },
+        {
+          "spelling": "retail",
+          "phonetic": "[`ri:teil]",
+          "definition_1": "n.零售",
+          "definition_2": "a.零售的"
+        },
+        {
+          "spelling": "retention",
+          "phonetic": "[ri′tenʃәn]",
+          "definition_1": "n.保留,保有,保持"
+        },
+        {
+          "spelling": "revelation",
+          "phonetic": "[revi′leiʃәn]",
+          "definition_1": "n.揭露,泄露,启示,展示"
+        },
+        {
+          "spelling": "revenge",
+          "phonetic": "[ri′vendʒ]",
+          "definition_1": "vt.替…报仇",
+          "definition_2": "n.报仇"
+        },
+        {
+          "spelling": "revive",
+          "phonetic": "[ri′vaiv]",
+          "definition_1": "vt.&vi.苏醒；复兴"
+        },
+        {
+          "spelling": "revolve",
+          "phonetic": "[ri′vɔlv]",
+          "definition_1": "vt.&vi.(使)旋转"
+        },
+        {
+          "spelling": "rigorous",
+          "phonetic": "[`rigәrәs]",
+          "definition_1": "a.(性格等)严峻的"
+        },
+        {
+          "spelling": "rim",
+          "phonetic": "[rim]",
+          "definition_1": "n.边；边缘，(眼镜)框"
+        },
+        {
+          "spelling": "rip",
+          "phonetic": "[rip]",
+          "definition_1": "vi.撕啐，扯破，划破"
+        },
+        {
+          "spelling": "ripple",
+          "phonetic": "[`ripl]",
+          "definition_1": "n.涟漪，细浪，波纹"
+        },
+        {
+          "spelling": "ritual",
+          "phonetic": "[`ritjuәl]",
+          "definition_1": "n.仪式",
+          "definition_2": "a.仪式的,例行公事的"
+        },
+        {
+          "spelling": "romance",
+          "phonetic": "[rәu′mæns]",
+          "definition_1": "n.传奇；浪漫文学"
+        },
+        {
+          "spelling": "rot",
+          "phonetic": "[rɔt]",
+          "definition_1": "vt.烂，腐坏",
+          "definition_2": "n.腐烂"
+        },
+        {
+          "spelling": "royalty",
+          "phonetic": "[`rɔiәlti]",
+          "definition_1": "n.皇家，王族，皇族"
+        },
+        {
+          "spelling": "rupture",
+          "phonetic": "[`rΛptʃә]",
+          "definition_1": "n.破裂,决裂",
+          "definition_2": "vt.(使)破裂"
+        },
+        {
+          "spelling": "safeguard",
+          "phonetic": "[`seifga:d]",
+          "definition_1": "n.保护措施；护照"
+        },
+        {
+          "spelling": "sanction",
+          "phonetic": "[`sæŋkʃәn]",
+          "definition_1": "n.制裁，批准"
+        },
+        {
+          "spelling": "saturate",
+          "phonetic": "[`sætʃәreit]",
+          "definition_1": "vt.使浸透,使充满,使饱和"
+        },
+        {
+          "spelling": "sauce",
+          "phonetic": "[sɔ:s]",
+          "definition_1": "n.调味汁，酱汁"
+        },
+        {
+          "spelling": "savage",
+          "phonetic": "[`sævidʒ]",
+          "definition_1": "a.未开发的,野蛮,残暴的n.野蛮人"
+        },
+        {
+          "spelling": "scandal",
+          "phonetic": "[`skændl]",
+          "definition_1": "n.丑事，丑闻；耻辱"
+        },
+        {
+          "spelling": "scared",
+          "phonetic": "[skɛәd]",
+          "definition_1": "adj.受惊吓的"
+        },
+        {
+          "spelling": "sceptical",
+          "phonetic": "[`skeptikәl]",
+          "definition_1": "a.怀疑的"
+        },
+        {
+          "spelling": "scorn",
+          "phonetic": "[skɔ:n]",
+          "definition_1": "n.轻蔑；嘲笑",
+          "definition_2": "vt.轻蔑"
+        },
+        {
+          "spelling": "scrap",
+          "phonetic": "[skræp]",
+          "definition_1": "n.碎片；废料",
+          "definition_2": "vt.废弃"
+        },
+        {
+          "spelling": "script",
+          "phonetic": "[skript]",
+          "definition_1": "n.手迹,手稿,剧本,字母表"
+        },
+        {
+          "spelling": "seam",
+          "phonetic": "[si:m]",
+          "definition_1": "n.缝口；接缝；骨缝"
+        },
+        {
+          "spelling": "sector",
+          "phonetic": "[`sektә]",
+          "definition_1": "n.部门,部分,扇形"
+        },
+        {
+          "spelling": "seemingly",
+          "phonetic": "[`si:miŋli]",
+          "definition_1": "ad.表面上，外表上"
+        },
+        {
+          "spelling": "segment",
+          "phonetic": "[`segmәnt]",
+          "definition_1": "n.切片，部分；段，节"
+        },
+        {
+          "spelling": "segregate",
+          "phonetic": "[`segrigeit]",
+          "definition_1": "a.分离的,被隔离的",
+          "definition_2": "vt.使分离,使隔"
+        },
+        {
+          "spelling": "seminar",
+          "phonetic": "[`semina:]",
+          "definition_1": "n.研究会,讨论发表会"
+        },
+        {
+          "spelling": "sensation",
+          "phonetic": "[sen′seiʃәn]",
+          "definition_1": "n.感觉，知觉；轰动"
+        },
+        {
+          "spelling": "sentiment",
+          "phonetic": "[`sentimәnt]",
+          "definition_1": "n.感情；情操；情绪"
+        },
+        {
+          "spelling": "sexual",
+          "phonetic": "[`seksjuәl]",
+          "definition_1": "a.性的,性别的"
+        },
+        {
+          "spelling": "shatter",
+          "phonetic": "[`ʃætә]",
+          "definition_1": "vt.粉碎，破碎；毁坏"
+        },
+        {
+          "spelling": "sheer",
+          "phonetic": "[ʃiә]",
+          "definition_1": "a.纯粹的；全然的；陡峭的"
+        },
+        {
+          "spelling": "shipment",
+          "phonetic": "[`ʃipmәnt]",
+          "definition_1": "n.装货；装载的货物"
+        },
+        {
+          "spelling": "shutter",
+          "phonetic": "[`ʃΛtә]",
+          "definition_1": "n.百叶窗；(相机)快门"
+        },
+        {
+          "spelling": "signify",
+          "phonetic": "[`signifai]",
+          "definition_1": "vt.表示，意味着"
+        },
+        {
+          "spelling": "simulate",
+          "phonetic": "[`simjuleit]",
+          "definition_1": "vt.模拟,假装,模仿"
+        },
+        {
+          "spelling": "simultaneous",
+          "phonetic": "[simәl′teinjәs]",
+          "definition_1": "a.同时的，同时存在的"
+        },
+        {
+          "spelling": "skip",
+          "phonetic": "[skip]",
+          "definition_1": "vi.跳；跳绳；略过"
+        },
+        {
+          "spelling": "slack",
+          "phonetic": "[slæk]",
+          "definition_1": "a.松弛的;萧条的;懈怠的；",
+          "definition_2": "vt.使松弛"
+        },
+        {
+          "spelling": "slap",
+          "phonetic": "[slæp]",
+          "definition_1": "vt.掴，拍",
+          "definition_2": "n.巴掌，拍"
+        },
+        {
+          "spelling": "slim",
+          "phonetic": "[slim]",
+          "definition_1": "a.细长的；微小的"
+        },
+        {
+          "spelling": "slogan",
+          "phonetic": "[`slәugәn]",
+          "definition_1": "n.标语，口号"
+        },
+        {
+          "spelling": "slum",
+          "phonetic": "[slΛm]",
+          "definition_1": "n.贫民窟，贫民区"
+        },
+        {
+          "spelling": "smash",
+          "phonetic": "[smæʃ]",
+          "definition_1": "vt.打碎，打破，粉碎"
+        },
+        {
+          "spelling": "snack",
+          "phonetic": "[snæk]",
+          "definition_1": "n.快餐，小吃"
+        },
+        {
+          "spelling": "snap",
+          "phonetic": "[snæp]",
+          "definition_1": "vt.猛咬，突然折断"
+        },
+        {
+          "spelling": "snatch",
+          "phonetic": "[snætʃ]",
+          "definition_1": "n.抢夺,攫取,片段",
+          "definition_2": "vt.夺取,攫取"
+        },
+        {
+          "spelling": "soar",
+          "phonetic": "[sɔ:]",
+          "definition_1": "vi.猛增，高耸，高飞,翱翔"
+        },
+        {
+          "spelling": "sober",
+          "phonetic": "[`sәubә]",
+          "definition_1": "a.清醒的；适度的"
+        },
+        {
+          "spelling": "sociology",
+          "phonetic": "[sәusi′ɔlәdʒi]",
+          "definition_1": "n.社会学"
+        },
+        {
+          "spelling": "software",
+          "phonetic": "[`sɔftwɛә]",
+          "definition_1": "n.(计算机的)软件"
+        },
+        {
+          "spelling": "solidarity",
+          "phonetic": "[sɔli′dæriti]",
+          "definition_1": "n.团结；休戚相关"
+        },
+        {
+          "spelling": "solitary",
+          "phonetic": "[`sɔlitәri]",
+          "definition_1": "n.独居者",
+          "definition_2": "a.孤独的,独居的"
+        },
+        {
+          "spelling": "solo",
+          "phonetic": "[`sәulәu]",
+          "definition_1": "n.独唱，独奏；独唱曲"
+        },
+        {
+          "spelling": "spacious",
+          "phonetic": "[`speiʃәs]",
+          "definition_1": "a.广阔的，广大的"
+        },
+        {
+          "spelling": "sparkle",
+          "phonetic": "[`spa:kl]",
+          "definition_1": "vi.发火花",
+          "definition_2": "vt.使闪耀"
+        },
+        {
+          "spelling": "spatial",
+          "phonetic": "[`speiʃәl]",
+          "definition_1": "a.空间的，占据空间的"
+        },
+        {
+          "spelling": "speciality",
+          "phonetic": "[speʃi′æliti]",
+          "definition_1": "n.专业，特长；特产"
+        },
+        {
+          "spelling": "species",
+          "phonetic": "[`spi:ʃi:z]",
+          "definition_1": "n.种，物种；种类"
+        },
+        {
+          "spelling": "specifically",
+          "phonetic": "[spe′sifikәli]",
+          "definition_1": "ad.特定的,明确的"
+        },
+        {
+          "spelling": "specification",
+          "phonetic": "[spesifi′keiʃәn]",
+          "definition_1": "n.载明，详述；规格"
+        },
+        {
+          "spelling": "spectacle",
+          "phonetic": "[`spektәkl]",
+          "definition_1": "n.场面；景象，奇观"
+        },
+        {
+          "spelling": "spectacular",
+          "phonetic": "[spek′tækjulә]",
+          "definition_1": "a.公开展示的,惊人的",
+          "definition_2": "n.展览物"
+        },
+        {
+          "spelling": "spectator",
+          "phonetic": "[spek′teitә]",
+          "definition_1": "n.参观者，观众"
+        },
+        {
+          "spelling": "speculate",
+          "phonetic": "[`spekjuleit]",
+          "definition_1": "vi.思索，沉思；投机"
+        },
+        {
+          "spelling": "spiral",
+          "phonetic": "[`spaiәrәl]",
+          "definition_1": "a.螺旋(形)的，盘旋的"
+        },
+        {
+          "spelling": "splash",
+          "phonetic": "[splæʃ]",
+          "definition_1": "vt.溅泼",
+          "definition_2": "vi.泼水"
+        },
+        {
+          "spelling": "spokesman",
+          "phonetic": "[`spәuksmәn]",
+          "definition_1": "n.发言人，代言人"
+        },
+        {
+          "spelling": "spontaneous",
+          "phonetic": "[spɔn′teinjәs]",
+          "definition_1": "a.自发的；本能的"
+        },
+        {
+          "spelling": "spouse",
+          "phonetic": "[spauz]",
+          "definition_1": "n.配偶,夫妻"
+        },
+        {
+          "spelling": "spy",
+          "phonetic": "[spai]",
+          "definition_1": "n.间谍，特务",
+          "definition_2": "vt.侦察"
+        },
+        {
+          "spelling": "stabilize",
+          "phonetic": "[`steibilaiz]",
+          "definition_1": "vt.使稳定,使坚固",
+          "definition_2": "vi.稳定,安定"
+        },
+        {
+          "spelling": "stagger",
+          "phonetic": "[`stægә]",
+          "definition_1": "vi.蹒跚",
+          "definition_2": "vt.使摇晃"
+        },
+        {
+          "spelling": "staircase",
+          "phonetic": "[`stɛәkeis]",
+          "definition_1": "n.楼梯，楼梯间"
+        },
+        {
+          "spelling": "startle",
+          "phonetic": "[`sta:tl]",
+          "definition_1": "vt.使大吃一惊",
+          "definition_2": "n.吃惊"
+        },
+        {
+          "spelling": "stationary",
+          "phonetic": "[`steiʃnәri]",
+          "definition_1": "a.固定的,静止不动的"
+        },
+        {
+          "spelling": "statistics",
+          "phonetic": "[stә′tistiks]",
+          "definition_1": "n.统计，统计数字"
+        },
+        {
+          "spelling": "stereo",
+          "phonetic": "[`stiәriәu]",
+          "definition_1": "n.立体声",
+          "definition_2": "a.立体声的"
+        },
+        {
+          "spelling": "stereotype",
+          "phonetic": "[stiәriәtaip]",
+          "definition_1": "n.陈腔滥调,老套"
+        },
+        {
+          "spelling": "stimulus",
+          "phonetic": "[`stimjulәs]",
+          "definition_1": "n.刺激,激励,刺激品"
+        },
+        {
+          "spelling": "straightforward",
+          "phonetic": "[streit′fɔ:wәd]",
+          "definition_1": "a.老实的",
+          "definition_2": "ad.坦率地"
+        },
+        {
+          "spelling": "strategic",
+          "phonetic": "[strә′ti:dʒik]",
+          "definition_1": "a.战略的,战略上的"
+        },
+        {
+          "spelling": "streamline",
+          "phonetic": "[stri:mlain]",
+          "definition_1": "n.流线；流线型"
+        },
+        {
+          "spelling": "stride",
+          "phonetic": "[straid]",
+          "definition_1": "vi.大踏步走",
+          "definition_2": "n.大步"
+        },
+        {
+          "spelling": "striking",
+          "phonetic": "[`straikiŋ]",
+          "definition_1": "a.显著的，惊人的"
+        },
+        {
+          "spelling": "strive",
+          "phonetic": "[straiv]",
+          "definition_1": "vi.努力，奋斗，力求"
+        },
+        {
+          "spelling": "stubborn",
+          "phonetic": "[`stΛbәn]",
+          "definition_1": "a.顽固的；顽强的"
+        },
+        {
+          "spelling": "studio",
+          "phonetic": "[`stju:diәu]",
+          "definition_1": "n.工作室；播音室"
+        },
+        {
+          "spelling": "sturdy",
+          "phonetic": "[`stә:di]",
+          "definition_1": "a.坚定的；牢固的"
+        },
+        {
+          "spelling": "subjective",
+          "phonetic": "[sΛb′dʒektiv]",
+          "definition_1": "a.主观的,个人的"
+        },
+        {
+          "spelling": "subordinate",
+          "phonetic": "[sә′bɔ:dәnit]",
+          "definition_1": "a.下级的，辅助的"
+        },
+        {
+          "spelling": "subscribe",
+          "phonetic": "[sәb′skraib]",
+          "definition_1": "vi.订购，认购；预订"
+        },
+        {
+          "spelling": "subsidiary",
+          "phonetic": "[sәb′sidjәri]",
+          "definition_1": "a.辅助的，补充的"
+        },
+        {
+          "spelling": "subsidy",
+          "phonetic": "[`sΛbsidi]",
+          "definition_1": "n.补助金,津贴"
+        },
+        {
+          "spelling": "subtle",
+          "phonetic": "[`sΛbtl]",
+          "definition_1": "a.微妙的；精巧的"
+        },
+        {
+          "spelling": "successor",
+          "phonetic": "[sәk′sesә]",
+          "definition_1": "n.继承人，继任者"
+        },
+        {
+          "spelling": "sue",
+          "phonetic": "[sju:]",
+          "definition_1": "vt.控告,请愿"
+        },
+        {
+          "spelling": "suicide",
+          "phonetic": "[`sjuisaid]",
+          "definition_1": "n.&vi.&vt.自杀"
+        },
+        {
+          "spelling": "suitcase",
+          "phonetic": "[`sju:tkeis]",
+          "definition_1": "n.小提箱，衣箱"
+        },
+        {
+          "spelling": "summit",
+          "phonetic": "[`sΛmit]",
+          "definition_1": "n.顶点，最高点；极度"
+        },
+        {
+          "spelling": "summon",
+          "phonetic": "[`sΛmәn]",
+          "definition_1": "vt.召唤；鼓起(勇气)"
+        },
+        {
+          "spelling": "superb",
+          "phonetic": "[sju:′pә:b]",
+          "definition_1": "a.壮丽的；超等的"
+        },
+        {
+          "spelling": "superiority",
+          "phonetic": "[sju:pәri′ɔriti]",
+          "definition_1": "n.优越(性)，优势"
+        },
+        {
+          "spelling": "supersonic",
+          "phonetic": "[`sju:pә′sɔnik]",
+          "definition_1": "a.超声的，超声速的"
+        },
+        {
+          "spelling": "supervise",
+          "phonetic": "[`sju:pәvaiz]",
+          "definition_1": "vt.&vi.监督，监视"
+        },
+        {
+          "spelling": "supplementary",
+          "phonetic": "[sΛpli′mentәri]",
+          "definition_1": "a.补足,补充,追加的"
+        },
+        {
+          "spelling": "suppress",
+          "phonetic": "[sә′pres]",
+          "definition_1": "vt.镇压；抑制；隐瞒"
+        },
+        {
+          "spelling": "surge",
+          "phonetic": "[sә:dʒ]",
+          "definition_1": "n.vt.激增,奔放,汹涌,澎湃"
+        },
+        {
+          "spelling": "surgeon",
+          "phonetic": "[`sә:dʒәn]",
+          "definition_1": "n.外科医师；军医"
+        },
+        {
+          "spelling": "surpass",
+          "phonetic": "[sә:′pa:s]",
+          "definition_1": "vt.超过，超越，胜过"
+        },
+        {
+          "spelling": "surplus",
+          "phonetic": "[`sә:plәs]",
+          "definition_1": "n.过剩，剩余(物资)"
+        },
+        {
+          "spelling": "survival",
+          "phonetic": "[sә′vaivәl]",
+          "definition_1": "n.幸存，残存；幸存者"
+        },
+        {
+          "spelling": "susceptible",
+          "phonetic": "[sә′septәbl]",
+          "definition_1": "a.易受影响的,易感动的"
+        },
+        {
+          "spelling": "suspension",
+          "phonetic": "[sәs′penʃәn]",
+          "definition_1": "n.悬挂,暂停,中止"
+        },
+        {
+          "spelling": "suspicious",
+          "phonetic": "[sәs′piʃәs]",
+          "definition_1": "a.可疑的；猜疑的"
+        },
+        {
+          "spelling": "symmetry",
+          "phonetic": "[`simitri]",
+          "definition_1": "n.对称(性)，匀称"
+        },
+        {
+          "spelling": "symphony",
+          "phonetic": "[`simfәni]",
+          "definition_1": "n.交响乐；交响乐团"
+        },
+        {
+          "spelling": "symptom",
+          "phonetic": "[`simptәm]",
+          "definition_1": "n.症状，征候，征兆"
+        },
+        {
+          "spelling": "synthesis",
+          "phonetic": "[`sinθisis]",
+          "definition_1": "n.合成；综合，综合物"
+        },
+        {
+          "spelling": "tablet",
+          "phonetic": "[`tæblit]",
+          "definition_1": "n.碑，匾；药片"
+        },
+        {
+          "spelling": "tackle",
+          "phonetic": "[`tækl]",
+          "definition_1": "vt.解决，对付",
+          "definition_2": "n.用具"
+        },
+        {
+          "spelling": "tactics",
+          "phonetic": "[`tæktiks]",
+          "definition_1": "n.策略；战术，兵法"
+        },
+        {
+          "spelling": "tangle",
+          "phonetic": "[`tæŋgl]",
+          "definition_1": "vt.使缠结，使纠缠"
+        },
+        {
+          "spelling": "tar",
+          "phonetic": "[ta:]",
+          "definition_1": "n.柏油，焦油"
+        },
+        {
+          "spelling": "tariff",
+          "phonetic": "[`tærif]",
+          "definition_1": "n.关税,价格表,收费表",
+          "definition_2": "vt.课以关税"
+        },
+        {
+          "spelling": "temperament",
+          "phonetic": "[`tempәrәmәnt]",
+          "definition_1": "n.气质,性质,性情"
+        },
+        {
+          "spelling": "tenant",
+          "phonetic": "[`tenәnt]",
+          "definition_1": "n.承租人，房客，佃户"
+        },
+        {
+          "spelling": "tentative",
+          "phonetic": "[`tentәtiv]",
+          "definition_1": "n.试验,假设a.试验性,暂时的"
+        },
+        {
+          "spelling": "terminate",
+          "phonetic": "[`tә:mineit]",
+          "definition_1": "vt.&vi.停止，终止"
+        },
+        {
+          "spelling": "terrific",
+          "phonetic": "[tә′rifik]",
+          "definition_1": "a.可怕的；极大的"
+        },
+        {
+          "spelling": "terrify",
+          "phonetic": "[`terifai]",
+          "definition_1": "vt.使恐怖，使惊吓"
+        },
+        {
+          "spelling": "testify",
+          "phonetic": "[`testifai]",
+          "definition_1": "v.证明，证实，作证"
+        },
+        {
+          "spelling": "testimony",
+          "phonetic": "[`testimәni]",
+          "definition_1": "n.证言,证据,声明"
+        },
+        {
+          "spelling": "thanksgiving",
+          "phonetic": "[`θæŋksgiviŋ]",
+          "definition_1": "n.感恩节"
+        },
+        {
+          "spelling": "theft",
+          "phonetic": "[θeft]",
+          "definition_1": "n.盗窃，偷窃(行为)"
+        },
+        {
+          "spelling": "theme",
+          "phonetic": "[θi:m]",
+          "definition_1": "n.题目；词干；主旋律"
+        },
+        {
+          "spelling": "therapy",
+          "phonetic": "[`θerәpi]",
+          "definition_1": "n.治疗"
+        },
+        {
+          "spelling": "thereafter",
+          "phonetic": "[ðɛә′ra:ftә]",
+          "definition_1": "ad.此后，以后"
+        },
+        {
+          "spelling": "thesis",
+          "phonetic": "[`θi:sis]",
+          "definition_1": "n.论题，论点；论文"
+        },
+        {
+          "spelling": "thirst",
+          "phonetic": "[θә:st]",
+          "definition_1": "n.渴，口渴；渴望"
+        },
+        {
+          "spelling": "thorn",
+          "phonetic": "[θɔ:n]",
+          "definition_1": "n.刺，棘；荆棘；蒺藜"
+        },
+        {
+          "spelling": "thrill",
+          "phonetic": "[θril]",
+          "definition_1": "vt.&vi.(使)激动"
+        },
+        {
+          "spelling": "timber",
+          "phonetic": "[`timbә]",
+          "definition_1": "n.木材，木料"
+        },
+        {
+          "spelling": "timely",
+          "phonetic": "[`taimli]",
+          "definition_1": "a.及时的；适时的"
+        },
+        {
+          "spelling": "timid",
+          "phonetic": "[`timid]",
+          "definition_1": "a.胆怯的；羞怯的"
+        },
+        {
+          "spelling": "tolerant",
+          "phonetic": "[`tɔlәrәnt]",
+          "definition_1": "a.容忍的；有耐力的"
+        },
+        {
+          "spelling": "toss",
+          "phonetic": "[tɔs]",
+          "definition_1": "vi.翻来复去"
+        },
+        {
+          "spelling": "tragic",
+          "phonetic": "[`trædʒik]",
+          "definition_1": "a.悲剧性的，悲惨的"
+        },
+        {
+          "spelling": "trait",
+          "phonetic": "[treit]",
+          "definition_1": "n.显著特点，特性"
+        },
+        {
+          "spelling": "transaction",
+          "phonetic": "[træn′zækʃәn]",
+          "definition_1": "n.处理；交易；和解"
+        },
+        {
+          "spelling": "transcend",
+          "phonetic": "[træn′send]",
+          "definition_1": "vt.超越,胜过"
+        },
+        {
+          "spelling": "transient",
+          "phonetic": "[`trænziәnt]",
+          "definition_1": "a.短暂的,转瞬即逝的,临时的,暂住"
+        },
+        {
+          "spelling": "transit",
+          "phonetic": "[`trænsit]",
+          "definition_1": "n.运输",
+          "definition_2": "a.中转的，过境的"
+        },
+        {
+          "spelling": "transition",
+          "phonetic": "[træn′siʃәn]",
+          "definition_1": "n.转变，变迁；过渡"
+        },
+        {
+          "spelling": "transplant",
+          "phonetic": "[træns′pla:nt]",
+          "definition_1": "vt.&vi.移植，移种"
+        },
+        {
+          "spelling": "traverse",
+          "phonetic": "[`trævә:s]",
+          "definition_1": "vt.横越，横切，横断"
+        },
+        {
+          "spelling": "tribute",
+          "phonetic": "[`tribju:t]",
+          "definition_1": "n.贡物；献礼，贡献"
+        },
+        {
+          "spelling": "trifle",
+          "phonetic": "[`traifl]",
+          "definition_1": "n.小事，琐事；少许"
+        },
+        {
+          "spelling": "trigger",
+          "phonetic": "[`trigә]",
+          "definition_1": "n.扳机",
+          "definition_2": "vt.触发，引起"
+        },
+        {
+          "spelling": "triple",
+          "phonetic": "[`tripl]",
+          "definition_1": "a.三倍的,三方的",
+          "definition_2": "vt.使增至三倍"
+        },
+        {
+          "spelling": "trivial",
+          "phonetic": "[`triviәl]",
+          "definition_1": "a.琐碎的；平常的"
+        },
+        {
+          "spelling": "tuck",
+          "phonetic": "[tΛk]",
+          "definition_1": "vt.折短，卷起；塞"
+        },
+        {
+          "spelling": "tuition",
+          "phonetic": "[tju:′iʃәn]",
+          "definition_1": "n.教，教诲；学费"
+        },
+        {
+          "spelling": "tumble",
+          "phonetic": "[`tΛmbl]",
+          "definition_1": "vi.摔倒，跌倒；打滚"
+        },
+        {
+          "spelling": "turnover",
+          "phonetic": "[`tә:nouvә]",
+          "definition_1": "n.人员调整，营业额，成交量"
+        },
+        {
+          "spelling": "tutor",
+          "phonetic": "[`tju:tә]",
+          "definition_1": "vt.教，指导"
+        },
+        {
+          "spelling": "ultraviolet",
+          "phonetic": "[`Λltrә′vaiәlit]",
+          "definition_1": "a.紫外的n.紫外线辐射"
+        },
+        {
+          "spelling": "unanimous",
+          "phonetic": "[ju(:)′nænimәs]",
+          "definition_1": "a.(全体)一致的"
+        },
+        {
+          "spelling": "underestimate",
+          "phonetic": "[Λndәr′estimeit]",
+          "definition_1": "vt.低估，看轻"
+        },
+        {
+          "spelling": "underlying",
+          "phonetic": "[Λndә′laiiŋ]",
+          "definition_1": "a.在下的,含蓄的,潜在的"
+        },
+        {
+          "spelling": "undermine",
+          "phonetic": "[Λndә′main]",
+          "definition_1": "vt.渐渐破坏,暗中破坏,侵蚀基础"
+        },
+        {
+          "spelling": "unemployment",
+          "phonetic": "[`Λnim′plɔimәnt]",
+          "definition_1": "n.失业；失业人数"
+        },
+        {
+          "spelling": "unfold",
+          "phonetic": "[Λn′fәuld]",
+          "definition_1": "vt.展开",
+          "definition_2": "vi.呈现"
+        },
+        {
+          "spelling": "unify",
+          "phonetic": "[`ju:nifai]",
+          "definition_1": "vt.统一,使成一体"
+        },
+        {
+          "spelling": "update",
+          "phonetic": "[Λp′deit]",
+          "definition_1": "vt.更新,使现代化"
+        },
+        {
+          "spelling": "upgrade",
+          "phonetic": "[`Λp′greid]",
+          "definition_1": "vt.使升级,提升"
+        },
+        {
+          "spelling": "uphold",
+          "phonetic": "[Λp′hәuld]",
+          "definition_1": "vt.举起；支撑；赞成"
+        },
+        {
+          "spelling": "validity",
+          "phonetic": "[vә′liditi]",
+          "definition_1": "n.有效，效力；正确"
+        },
+        {
+          "spelling": "vegetation",
+          "phonetic": "[vedʒi′teiʃәn]",
+          "definition_1": "n.植物,草木"
+        },
+        {
+          "spelling": "verbal",
+          "phonetic": "[`vә:bәl]",
+          "definition_1": "a.言辞的,文字的,口头的,动词的"
+        },
+        {
+          "spelling": "verge",
+          "phonetic": "[vә:dʒ]",
+          "definition_1": "n.边缘，边界，界限"
+        },
+        {
+          "spelling": "versatile",
+          "phonetic": "[`vә:sәtail]",
+          "definition_1": "a.多方面的；通用的"
+        },
+        {
+          "spelling": "versus",
+          "phonetic": "[`vә:sәs]",
+          "definition_1": "prep.(比赛等中)对"
+        },
+        {
+          "spelling": "vicinity",
+          "phonetic": "[vi′siniti]",
+          "definition_1": "n.邻近；附近地区"
+        },
+        {
+          "spelling": "vicious",
+          "phonetic": "[`viʃәs]",
+          "definition_1": "a.邪恶的；恶性的"
+        },
+        {
+          "spelling": "violate",
+          "phonetic": "[`vaiәleit]",
+          "definition_1": "vt.违犯，违背；侵犯"
+        },
+        {
+          "spelling": "virtual",
+          "phonetic": "[`vә:tjuәl]",
+          "definition_1": "a.实际上的，实质上的"
+        },
+        {
+          "spelling": "virus",
+          "phonetic": "[`vaiәrәs]",
+          "definition_1": "n.病毒"
+        },
+        {
+          "spelling": "vocal",
+          "phonetic": "[`vәukәl]",
+          "definition_1": "a.直言不讳的，嗓音的,有声的"
+        },
+        {
+          "spelling": "vocational",
+          "phonetic": "[vәu′keiʃәnl]",
+          "definition_1": "a.职业的"
+        },
+        {
+          "spelling": "void",
+          "phonetic": "[vɔid]",
+          "definition_1": "a.空的；无效的"
+        },
+        {
+          "spelling": "volunteer",
+          "phonetic": "[vɔlәn′tiә]",
+          "definition_1": "n.志愿者",
+          "definition_2": "vt.志愿"
+        },
+        {
+          "spelling": "wallet",
+          "phonetic": "[`wɔlit]",
+          "definition_1": "n.钱包，皮夹子"
+        },
+        {
+          "spelling": "ward",
+          "phonetic": "[wɔ:d]",
+          "definition_1": "n.病房，病室；监房"
+        },
+        {
+          "spelling": "warehouse",
+          "phonetic": "[`wɛәhaus]",
+          "definition_1": "n.仓库，货栈"
+        },
+        {
+          "spelling": "warfare",
+          "phonetic": "[`wɔ:fɛә]",
+          "definition_1": "n.战争，战争状态"
+        },
+        {
+          "spelling": "weary",
+          "phonetic": "[`wiәri]",
+          "definition_1": "a.疲倦的",
+          "definition_2": "vt.使疲乏"
+        },
+        {
+          "spelling": "whereas",
+          "phonetic": "[wɛәr′æz]",
+          "definition_1": "conj.而，却，反之"
+        },
+        {
+          "spelling": "whereby",
+          "phonetic": "[wɛә′bai]",
+          "definition_1": "ad.靠什么；靠那个"
+        },
+        {
+          "spelling": "withhold",
+          "phonetic": "[wið′hәuld]",
+          "definition_1": "vt.拒绝，不给，使停止，阻挡"
+        },
+        {
+          "spelling": "wrinkle",
+          "phonetic": "[`riŋkl]",
+          "definition_1": "n.皱纹",
+          "definition_2": "vt.使起皱纹"
+        },
+        {
+          "spelling": "yell",
+          "phonetic": "[jel]",
+          "definition_1": "vi.叫喊"
+        },
+        {
+          "spelling": "youngster",
+          "phonetic": "[`jΛŋstә]",
+          "definition_1": "n.儿童，少年，年轻人"
+        }
+      ]
+    }
+  }
