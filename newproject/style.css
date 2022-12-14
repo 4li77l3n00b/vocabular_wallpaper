@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'consolas';
+    src: url(consola.ttf);
+}
+@font-face {
+    font-family: 'courier';
+    src: url(courbd.ttf);
+}
+@font-face {
+    font-family: 'shm';
+    src: url(shm-r.otf);
+}
+
+body {
+    background-color: #ccc;
+			background: url(img/bg.jpg) repeat;
+			margin: 0px;
+			overflow: hidden;
+			background-size: cover;
+}
+
+.text-display {
+    position: relative;
+    top: 75px;
+    right: 125px;
+}
+
+.word {
+    text-align: right;
+    line-height: 330%;
+}
+
+.spelling {
+    font-family: consolas;
+    font-size: 60px;
+    color: white;
+}
+
+.phonetic {
+    font-family: courier;
+    font-size: 24px;
+    color: #9edeff;
+}
+
+.definition {
+    font-family: shm;
+    font-style: italic;
+    font-size: 24px;
+    color: white;
+}
+
+.spelling, .phonetic, .definition{
+    text-shadow: 0 0 7px white;
+}
