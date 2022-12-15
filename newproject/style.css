@@ -13,10 +13,10 @@
 
 body {
     background-color: #ccc;
-			background: url(img/bg.jpg) repeat;
-			margin: 0px;
-			overflow: hidden;
-			background-size: cover;
+	background: url(img/bg.jpg) repeat;
+	margin: 0px;
+	overflow: hidden;
+	background-size: cover;
 }
 
 .text-display {
