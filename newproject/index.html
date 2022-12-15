@@ -84,7 +84,7 @@
     for (let index = 1; index < 6; index++) {
       es[index-1].innerHTML=selectedWords[index-1]["spelling"]+"  "
       ep[index-1].innerHTML=selectedWords[index-1]["phonetic"]
-      ed[index-1].innerHTML=selectedWords[index-1]["definition_1"]
+      ed[index-1].innerHTML=(selectedWords[index-1]["definition_1"]+selectedWords[index-1]["definition_2"]).replace("undefined","")
     }
     
 }
