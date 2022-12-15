@@ -1,46 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="style.css" />
-        <script src="js/jquery-3.4.1.min.js"></script>
-        <title></title>
-    </head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="data" href="data.json" />
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <title></title>
+  </head>
+  <body style="text-align: center;background-image: url(preview.png);">
+    <input type="button" id="update" value="update" class="" onclick="f_update();" />
+    <textarea style="width: 1001;" id="debug"></textarea>
+    <div class="text-display">
+      <p class="word" id="w1">
+          <span class="spelling" id="w1s">consistent  </span>
+          <span class="phonetic" id="w1p">[kənˈsɪstənt]</span><br>
+          <span class="definition" id="w1d">adj.始终如一的，一贯的</span><br><br>
+      </p>
+      <p class="word" id="w2">
+          <span class="spelling" id="w2s">consistent  </span>
+          <span class="phonetic" id="w2p">[kənˈsɪstənt]</span><br>
+          <span class="definition" id="w2d">adj.始终如一的，一贯的</span><br><br>
+      </p>
+      <p class="word" id="w3">
+          <span class="spelling" id="w3s">consistent  </span>
+          <span class="phonetic" id="w3p">[kənˈsɪstənt]</span><br>
+          <span class="definition" id="w3d">adj.始终如一的，一贯的</span><br><br>
+      </p>
+      <p class="word" id="w4">
+          <span class="spelling" id="w4s">consistent  </span>
+          <span class="phonetic" id="w4p">[kənˈsɪstənt]</span><br>
+          <span class="definition" id="w4d">adj.始终如一的，一贯的</span><br><br>
+      </p>
+      <p class="word" id="w5">
+          <span class="spelling" id="w5s">consistent  </span>
+          <span class="phonetic" id="w5p">[kənˈsɪstənt]</span><br>
+          <span class="definition" id="w5d">adj.始终如一的，一贯的</span><br><br>
+      </p>
+      <button class="re">
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="white" class="repeat" viewBox="0 0 16 16">
+              <path d="M11.534 7h3.932a.25.25 0 0 1 .192.41l-1.966 2.36a.25.25 0 0 1-.384 0l-1.966-2.36a.25.25 0 0 1 .192-.41zm-11 2h3.932a.25.25 0 0 0 .192-.41L2.692 6.23a.25.25 0 0 0-.384 0L.342 8.59A.25.25 0 0 0 .534 9z"></path>
+              <path fill-rule="evenodd" d="M8 3c-1.552 0-2.94.707-3.857 1.818a.5.5 0 1 1-.771-.636A6.002 6.002 0 0 1 13.917 7H12.9A5.002 5.002 0 0 0 8 3zM3.1 9a5.002 5.002 0 0 0 8.757 2.182.5.5 0 1 1 .771.636A6.002 6.002 0 0 1 2.083 9H3.1z"></path>
+          </svg>
+      </button>
+  </div>
 
-    <body>
-        <div class="text-display">
-            <p class="word" id="w1">
-                <span class="spelling">consistent  </span>
-                <span class="phonetic">[kənˈsɪstənt]</span></br>
-                <span class="definition">adj.始终如一的，一贯的</span></br></br>
-            </p>
-            <p class="word" id="w2">
-                <span class="spelling">consistent  </span>
-                <span class="phonetic">[kənˈsɪstənt]</span></br>
-                <span class="definition">adj.始终如一的，一贯的</span></br></br>
-            </p>
-            <p class="word" id="w3">
-                <span class="spelling">consistent  </span>
-                <span class="phonetic">[kənˈsɪstənt]</span></br>
-                <span class="definition">adj.始终如一的，一贯的</span></br></br>
-            </p>
-            <p class="word" id="w4">
-                <span class="spelling">consistent  </span>
-                <span class="phonetic">[kənˈsɪstənt]</span></br>
-                <span class="definition">adj.始终如一的，一贯的</span></br></br>
-            </p>
-            <p class="word" id="w5">
-                <span class="spelling">consistent  </span>
-                <span class="phonetic">[kənˈsɪstənt]</span></br>
-                <span class="definition">adj.始终如一的，一贯的</span></br></br>
-            </p>
-            <button class="re">
-                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="white" class="repeat" viewBox="0 0 16 16">
-                    <path d="M11.534 7h3.932a.25.25 0 0 1 .192.41l-1.966 2.36a.25.25 0 0 1-.384 0l-1.966-2.36a.25.25 0 0 1 .192-.41zm-11 2h3.932a.25.25 0 0 0 .192-.41L2.692 6.23a.25.25 0 0 0-.384 0L.342 8.59A.25.25 0 0 0 .534 9z"/>
-                    <path fill-rule="evenodd" d="M8 3c-1.552 0-2.94.707-3.857 1.818a.5.5 0 1 1-.771-.636A6.002 6.002 0 0 1 13.917 7H12.9A5.002 5.002 0 0 0 8 3zM3.1 9a5.002 5.002 0 0 0 8.757 2.182.5.5 0 1 1 .771.636A6.002 6.002 0 0 1 2.083 9H3.1z"/>
-                </svg>
-            </button>
-        </div>
-    </body>
+    </table>
+  </body>
+  <script>
+  jsonstr=""
+  function randomNum(minNum,maxNum){ 
+    switch(arguments.length){ 
+        case 1: 
+            return parseInt(Math.random()*minNum+1,10); 
+        break; 
+        case 2: 
+            return parseInt(Math.random()*(maxNum-minNum+1)+minNum,10); 
+        break; 
+            default: 
+                return 0; 
+            break; 
+    } 
+  } 
+  function f_update() {
+    var debug = document.getElementById("debug");
+    var jsonobj=$.parseJSON( jsonstr );
+    words=jsonobj["dataroot"]["Level_6_combined"]
+    num=words.length;
+    var r=[randomNum(1,num),randomNum(1,num),randomNum(1,num),randomNum(1,num),randomNum(1,num)];
+    console.log(r)
+    selectedWords=[];
+    for (let index = 0; index < 5; index++) {
+      selectedWords.push(words[r[index]])
+
+    }
+    es=[]
+    ep=[]
+    ed=[]
+    for (let index = 1; index < 6; index++) {
+      es.push(document.getElementById("w"+String(index)+"s"))
+      ep.push(document.getElementById("w"+String(index)+"p"))
+      ed.push(document.getElementById("w"+String(index)+"d"))
+    }
+    console.log(es)
+    for (let index = 1; index < 6; index++) {
+      es[index-1].innerHTML=selectedWords[index-1]["spelling"]
+      ep[index-1].innerHTML=selectedWords[index-1]["phonetic"]
+      ed[index-1].innerHTML=selectedWords[index-1]["definition_1"]
+    }
+    
+}
+$.ajax({
+                url: "data.json",
+                type: "GET",
+                dataType: "json", 
+                success: function (data) {
+                  jsonstr=JSON.stringify(data);;
+                  f_update();
+                }
+
+            })
+
+  </script>
 </html>
